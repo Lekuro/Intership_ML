@@ -38,6 +38,6 @@ print(s1.get_center()) # (1, 1)
 
 print(s1.get_vertex()) # 4
 
-print(s1.get_area()) # 3
+print(s1.get_area()) # 9
 
 print(Square.get_distance(s1, t1)) # 3.605551275463989
