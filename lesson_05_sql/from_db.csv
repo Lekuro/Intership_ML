@@ -1,0 +1,2973 @@
+id;country;city
+1;Hong Kong, China;Hong Kong
+2;Portugal;Lisboa
+3;Portugal;Porto
+4;Portugal;Faro
+5;Portugal;Funchal
+6;Portugal;Ponta Delgada
+7;Madagascar;Antananarivo
+8;Madagascar;Toamasina
+9;Madagascar;Antsiranana
+10;Madagascar;Toliara
+11;Madagascar;Mahajanga
+12;Madagascar;Fianarantsoa
+13;Bosnia and Herzegovina;Sarajevo
+14;Bosnia and Herzegovina;Mostar
+15;Bosnia and Herzegovina;Tuzla
+16;Bosnia and Herzegovina;Banja Luka
+17;Austria;Vienna
+18;Azerbaijan;Baku
+19;Azerbaijan;Ganja
+20;Azerbaijan;Lenkaran
+21;Norway;Oslo
+22;Norway;Bergen
+23;Norway;Tromsoe
+24;Poland;Warsaw
+25;Poland;Gdansk
+26;Poland;Poznan
+27;Poland;Krakow
+28;United Kingdom of Great Britain and Northern Ireland;Birmingham
+29;United Kingdom of Great Britain and Northern Ireland;Newcastle
+31;United Kingdom of Great Britain and Northern Ireland;Manchester
+32;United Kingdom of Great Britain and Northern Ireland;London
+33;United Kingdom of Great Britain and Northern Ireland;Edinburgh
+34;United Kingdom of Great Britain and Northern Ireland;Exeter
+36;United Kingdom of Great Britain and Northern Ireland;Cardiff
+38;United Kingdom of Great Britain and Northern Ireland;Belfast
+39;United Kingdom of Great Britain and Northern Ireland;Leeds
+40;United Kingdom of Great Britain and Northern Ireland;Norwich
+41;Slovakia;Bratislava
+42;Malta;Luqa, Malta
+43;Israel;Jerusalem
+44;Israel;Tel Aviv
+45;Israel;Tiberias
+46;Israel;Eilat
+47;Turkey;Istanbul
+48;Turkey;Ankara
+49;Turkey;Izmir
+50;Turkey;Adana
+51;Turkey;Antalya
+52;Turkey;Samsun
+53;Turkey;Erzurum
+54;Slovenia;Ljubljana
+55;Germany;Hamburg
+56;Germany;Koeln
+57;Germany;Frankfurt
+58;Germany;Munich
+59;Germany;Berlin
+60;Hungary;Budapest
+61;Hungary;Gyor
+62;Hungary;Miskolc
+63;Hungary;Debrecen
+64;Hungary;Pecs
+65;Hungary;Szeged
+66;Armenia;Yerevan
+67;Armenia;Vanadzor
+68;Armenia;Sevan
+69;Armenia;Kapan
+70;Croatia;Zagreb
+71;Croatia;Osijek
+72;Croatia;Rijeka
+73;Croatia;Split
+74;Croatia;Dubrovnik
+75;Malaysia;Alor Setar
+76;Malaysia;Cameron Highlands
+77;Malaysia;Ipoh
+78;Malaysia;Johor Bahru
+79;Malaysia;Kota Bharu
+80;Malaysia;Kuching
+81;Malaysia;Kota Kinabalu
+82;Malaysia;Kuala Lumpur
+83;Malaysia;Kuantan
+84;Malaysia;Labuan
+85;Malaysia;Langkawi
+86;Malaysia;Melaka
+87;Malaysia;Miri
+88;Malaysia;Petaling Jaya
+89;Malaysia;Pulau Pinang
+90;Malaysia;Sibu
+91;Malaysia;Sandakan
+92;Philippines;Metro Manila
+93;Fiji;Suva
+94;Fiji;Nadi
+95;Brunei Darussalam;Bandar Seri Begawan
+96;British Caribbean Territories;Cayman Islands
+97;Bahamas;Nassau
+98;Jamaica;Kingston
+99;Jamaica;Montego Bay
+100;Trinidad and Tobago;Port of Spain (Trinidad)
+101;Trinidad and Tobago;Scarborough (Tobago)
+102;Chile;Iquique
+103;Chile;Santiago
+104;Chile;Puerto Montt
+105;Chile;Punta Arenas
+106;Peru;Piura
+107;Peru;Cajamarca
+108;Peru;Lima
+109;Peru;Arequipa
+110;Peru;Cuzco
+111;Peru;Iquitos
+112;Oman;Muscat (Seeb)
+113;Oman;Salalah
+114;Nepal;Kathmandu
+115;Uzbekistan;Tashkent
+116;Uzbekistan;Samarkand
+117;Uzbekistan;Termez
+118;Uzbekistan;Nukus
+119;Mozambique;Lichinga
+120;Mozambique;Pemba
+121;Mozambique;Nampula
+122;Mozambique;Quelimane
+123;Mozambique;Tete
+124;Mozambique;Beira
+125;Mozambique;Chimoio
+126;Mozambique;Inhambane
+127;Mozambique;Xai-Xai
+128;Mozambique;Maputo
+129;Mali;Bamako
+130;Mali;Kayes
+131;Mali;Sikasso
+132;Mali;Segou
+133;Mali;Mopti
+134;Mali;Tombouctou
+135;Mali;Gao
+136;Mali;Kidal
+137;South Africa;Durban
+138;South Africa;Cape Town
+139;South Africa;Johannesburg
+140;Gambia;Banjul
+141;Netherlands;Den Helder
+142;Netherlands;Groningen
+143;Netherlands;Amsterdam (Schiphol)
+144;Netherlands;De Bilt
+145;Netherlands;Twenthe
+146;Netherlands;Vlissingen
+147;Netherlands;Maastricht
+148;Belize;Belize City
+149;Estonia;Tallinn
+150;Zambia;Lusaka
+151;Antigua and Barbuda;St. John's Antigua
+152;Kazakhstan;Almaty
+153;Kazakhstan;Astana
+154;Eritrea;Assab
+155;Eritrea;Asmara
+156;Macao, China;Macao
+157;Colombia;Bogota
+158;Colombia;Cali
+159;Colombia;Medellin
+160;Colombia;Barranquilla
+161;Colombia;Cartagena
+162;Ethiopia;Addis Ababa
+163;Ethiopia;Awassa
+164;Ethiopia;Bahir Dar
+165;Ethiopia;Dire Dawa
+166;Ethiopia;Jimma
+167;Ethiopia;Mekele
+168;Finland;Helsinki-Vantaa
+169;Finland;Turku
+170;Finland;Tampere
+171;Finland;Kuopio
+172;Finland;Rovaniemi
+173;Latvia;Daugavpils
+174;Latvia;Liepaja
+175;Latvia;Riga
+176;Latvia;Ventspils
+177;Greece;Athens
+178;Greece;Thessaloniki
+179;Morocco;Casablanca
+180;Morocco;Marrakech
+181;Japan;Sapporo
+182;Japan;Sendai
+183;Japan;Tokyo
+184;Japan;Osaka
+185;Japan;Fukuoka
+186;Japan;Naha
+187;Sweden;Stockholm
+188;Ireland;Dublin
+189;Iceland;Reykjavik
+190;Denmark;Copenhagen
+191;Belgium;Brussels
+192;Luxembourg;Luxembourg
+193;Switzerland;Geneva
+194;France;Paris
+195;Spain;Madrid
+196;Cape Verde;Sal
+197;Czech Republic;Prague
+198;Serbia;Belgrade
+199;North Macedonia;Skopje
+200;Romania;Bucharest
+201;Italy;Rome (ROMA)
+202;Cyprus;Larnaka Airport
+203;Russian Federation;St. Petersburg
+204;Lithuania;Vilnius
+205;Belarus;Minsk
+206;Russian Federation;Moscow
+207;Ukraine;Kyiv
+208;Republic of Moldova;Chisinau
+209;Georgia;Tbilisi
+210;Kyrgyzstan;Bishkek
+211;Tajikistan;Dushanbe
+212;Turkmenistan;Ashgabat
+213;Syrian Arab Republic;Damascus
+214;Lebanon;Beirut
+215;Jordan;Amman
+216;Saudi Arabia;Riyadh
+217;Kuwait;Kuwait Airport
+218;Iran, Islamic Republic of;Tehran
+219;Afghanistan;Kabul
+220;Bahrain;Bahrain/Manama
+221;Qatar;Doha
+222;United Arab Emirates;Abu Dhabi
+223;Pakistan;Islamabad
+224;India;New Delhi (SFD)
+225;India;Kolkata
+226;India;Mumbai
+227;Sri Lanka;Colombo
+228;Maldives;Male'
+229;Mongolia;Ulaanbaatar
+230;Democratic People's Republic of Korea;Pyongyang
+231;Republic of Korea;Seoul
+232;Myanmar;Yangon
+233;Thailand;Bangkok
+234;Singapore;Singapore
+235;Lao People's Democratic Republic;Vientiane
+236;China;Lhasa
+237;China;Beijing
+238;China;Kunming
+239;China;Xi'an
+240;China;Shanghai
+241;China;Guangzhou
+242;Algeria;Algiers
+243;Tunisia;Tunis-Carthage
+244;Senegal;Dakar
+245;Guinea;Conakry
+246;Sierra Leone;Freetown
+247;Mauritius;Plaisance
+248;Egypt;Cairo
+249;Sudan;Khartoum
+250;Djibouti;Djibouti
+251;Kenya;Nairobi
+252;United Republic of Tanzania;Dar Es Salaam
+253;Seychelles;Victoria
+254;Rwanda;Kigali
+255;Gabon;Libreville
+256;Chad;Ndjamena
+257;Cameroon;Yaounde
+258;Nigeria;Lagos
+259;Benin;Cotonou
+260;Togo;Lome
+261;Angola;Luanda
+262;Malawi;Mzuzu
+263;Zimbabwe;Harare
+264;Canada;Toronto, Ontario
+265;Canada;Ottawa, Ontario
+266;Canada;Vancouver, British Columbia
+267;United States of America;Miami, Florida
+268;United States of America;Atlanta, Georgia
+269;United States of America;Los Angeles, California
+270;United States of America;Washington DC
+271;United States of America;Denver, Colorado
+272;United States of America;San Francisco, California
+273;United States of America;Boston, Massachusetts
+274;United States of America;Chicago, Illinois
+275;United States of America;Detroit, Michigan
+276;United States of America;Minneapolis, Minnesota
+277;United States of America;Seattle, Washington
+278;United States of America;New York City, New York
+279;Mexico;Ciudad de Mexico
+280;Cuba;Havana
+281;Dominican Republic;Santo Domingo
+282;El Salvador;San Salvador
+283;Honduras;Tegucigalpa
+284;Nicaragua;Chinandega
+285;Costa Rica;Alajuela
+286;Curacao and Sint Maarten;Curacao
+287;Dominica;Melville Hall Airport
+288;Venezuela, Bolivarian Republic of;Caracas
+289;Guyana;Georgetown
+290;Brazil;Brasilia
+291;Ecuador;Quito
+292;Paraguay;Asuncion
+293;Uruguay;Montevideo
+294;Argentina;Buenos Aires
+295;Solomon Islands;Auki
+296;New Caledonia;Noumea
+297;French Polynesia;Tahiti
+298;New Zealand;Wellington
+299;Australia;Cairns
+300;Australia;Sydney
+301;Australia;Melbourne
+302;Australia;Canberra
+303;Bulgaria;Sofia
+304;Spain;Santa Cruz De Tenerife
+305;France;Rochambeau
+306;France;Le Raizet, Guadeloupe
+307;France;Le Lamentin
+308;Viet Nam;Hanoi
+309;Viet Nam;Ho Chi Minh City
+310;Indonesia;Jakarta
+311;Comoros;Moroni
+312;Switzerland;Zurich
+313;Switzerland;Lugano
+314;Australia;Perth
+315;Australia;Adelaide
+316;Australia;Hobart
+317;Australia;Albury / Wodonga
+318;Australia;Wollongong
+319;Australia;Newcastle
+320;Australia;Brisbane
+321;Australia;Townsville
+322;Australia;Darwin
+323;Australia;Alice Springs
+324;Nigeria;Abuja
+325;Nigeria;Port-Harcourt
+326;Uruguay;Punta Del Este
+327;Niger;Niamey
+328;Ireland;Cork
+329;Ireland;Shannon Airport
+330;Ireland;Belmullet
+331;Ireland;Malin Head
+332;Ireland;Kilkenny
+333;Republic of Korea;Gangneung
+334;Republic of Korea;Daejeon
+335;Republic of Korea;Gwangju
+336;Republic of Korea;Busan
+337;Republic of Korea;Jeju
+338;Sri Lanka;Anuradhapura
+339;Sri Lanka;Batticaloa
+340;Sri Lanka;Galle
+341;Sri Lanka;Jaffna
+342;Sri Lanka;Kandy
+343;Sri Lanka;Nuwara Eliya
+344;Sri Lanka;Ratnapura
+345;Sri Lanka;Trincomalee
+346;Guinea-Bissau;Bissau
+347;Cambodia;Siem Reap
+348;Cambodia;Phnom Penh - Pochentong
+349;China;Chongqing
+350;China;Nanjing
+351;China;Wuhan
+352;China;Shenyang
+353;China;Tianjin
+354;China;Taibei
+355;Japan;Nagoya
+356;Australia;Albany
+357;Australia;Alyangula
+358;Australia;Armidale
+359;Australia;Augusta
+360;Australia;Ayr / Home Hill
+361;Australia;Bairnsdale
+362;Australia;Ballarat
+363;Australia;Batemans Bay
+364;Australia;Bathurst
+365;Australia;Bega
+366;Australia;Bendigo
+367;Australia;Derby
+368;Australia;Borroloola
+369;Australia;Bourke
+370;Australia;Bowen
+371;Australia;Bowral
+372;Australia;Bridgetown
+373;Australia;Broken Hill
+374;Australia;Broome
+375;Australia;Bunbury
+376;Australia;Bundaberg
+377;Australia;Busselton
+378;Australia;Cape Byron
+379;Australia;Carnarvon
+380;Australia;Ceduna
+381;Australia;Charleville
+382;Australia;Charters Towers
+383;Australia;Clare
+384;Australia;Clermont
+385;Australia;Cobar
+386;Australia;Coffs Harbour
+387;Australia;Colac
+388;Australia;Collie
+389;Australia;Coober Pedy
+390;Australia;Cooma
+391;Australia;Coonawarra
+392;Australia;Dalby
+393;Australia;Deniliquin
+394;Australia;Devonport
+395;Australia;Dubbo
+396;Australia;Echuca
+397;Australia;Elizabeth
+398;Australia;Emerald
+399;Australia;Esperance
+400;Australia;Eucla
+401;Australia;Exmouth
+402;Australia;Geelong
+403;Australia;Geraldton
+404;Australia;Gladstone
+405;Australia;Gold Coast
+406;Australia;Goondiwindi
+407;Australia;Gosford
+408;Australia;Goulburn
+409;Australia;Grafton
+410;Australia;Griffith
+411;Australia;Gympie
+412;Australia;Halls Creek
+413;Australia;Hamilton
+414;Australia;Hervey Bay
+415;Australia;Horsham
+416;Australia;Ingham
+417;Australia;Innisfail
+418;Australia;Inverell
+419;Australia;Ipswich
+420;Australia;Jabiru
+421;Australia;Kalbarri
+422;Australia;Kalgoorlie
+423;Australia;Karratha
+424;Australia;Katanning
+425;Australia;Katherine
+426;Australia;Katoomba
+427;Australia;Keith
+428;Australia;Kempsey
+429;Australia;Kingaroy
+430;Australia;Kingscote
+431;Australia;Kununurra
+432;Australia;Kyancutta
+433;Australia;Lake Grace
+434;Australia;Latrobe Valley
+435;Australia;Launceston
+436;Australia;Laverton [WA]
+437;Australia;Leigh Creek
+438;Australia;Leinster
+439;Australia;Lismore
+440;Australia;Liverpool
+441;Australia;Longreach
+442;Australia;Lord Howe Island
+443;Australia;Mackay
+444;Australia;Maitland and Cessnock
+445;Australia;Maitland
+446;Australia;Mandurah
+447;Australia;Manjimup
+448;Australia;Mareeba
+449;Australia;Margaret River
+450;Australia;Maryborough
+451;Australia;Meekatharra
+452;Australia;Merredin
+453;Australia;Mildura
+454;Australia;Moora
+455;Australia;Moranbah
+456;Australia;Morawa
+457;Australia;Moree
+458;Australia;Mornington Peninsula
+464;Australia;Mudgee
+465;Australia;Murray Bridge
+466;Australia;Naracoorte
+467;Australia;Narrogin
+468;Australia;Newman
+469;Australia;Nhulunbuy
+470;Australia;Noarlunga
+471;Australia;Norfolk Island
+472;Australia;Northam
+473;Australia;Nowra
+474;Australia;Nuriootpa
+475;Australia;Orange
+476;Australia;Orbost
+477;Australia;Paraburdoo
+478;Australia;Parkes
+479;Australia;Port Augusta
+480;Australia;Port Hedland
+481;Australia;Port Lincoln
+482;Australia;Port Macquarie
+483;Australia;Port Pirie
+484;Australia;Ravensthorpe
+485;Australia;Renmark
+487;Australia;Rockhampton
+488;Australia;Roma
+489;Australia;Roxby Downs
+490;Australia;Sale
+491;Australia;Scone
+492;Australia;Seymour
+493;Australia;Shepparton
+494;Australia;St Helens
+495;Australia;Strahan Town
+496;Australia;Sunshine Coast
+497;Australia;Swansea
+498;Australia;Swan Hill
+499;Australia;Tamworth
+500;Australia;Taree
+501;Australia;Tennant Creek
+502;Australia;Toowoomba
+503;Australia;Victor Harbor
+504;Australia;Wagga Wagga
+505;Australia;Wangaratta
+506;Australia;Warrnambool
+507;Australia;Warwick
+508;Australia;Whyalla
+509;Australia;Winton
+510;Australia;Wonthaggi
+511;Australia;Woomera
+512;Australia;Yarra Glen
+513;Australia;Yeppoon
+514;Australia;Yulara
+515;Australia;Kurnell
+516;Australia;Watsonia
+517;Australia;Tullamarine
+518;Kenya;Nakuru
+519;Kenya;Lodwar
+520;Kenya;Mombasa
+522;India;Ahmedabad
+523;India;Bangalore
+524;India;Bhopal
+525;India;Bhubaneshwar
+526;India;Chandigarh
+527;India;Chennai
+528;India;Goa
+529;India;Guwahati
+530;India;Hyderabad
+531;India;Jaipur
+532;India;Lucknow
+533;India;Nagpur
+534;India;Patna
+535;India;Pune
+536;India;Srinagar
+537;India;Thiruvananthapuram
+538;New Zealand;Auckland
+539;New Zealand;Christchurch
+540;China;Harbin
+541;China;Changchun
+542;China;Qingdao
+543;China;Urumqi
+544;China;Yinchuan
+545;China;Xining
+546;China;Lanzhou
+547;China;Chengdu
+548;China;Guiyang
+549;China;Taiyuan
+550;China;Shijiazhuang
+551;China;Jinan
+552;China;Zhengzhou
+553;China;Hefei
+554;China;Changsha
+555;China;Nanchang
+556;China;Hangzhou
+557;China;Fuzhou
+558;China;Nanning
+559;China;Haikou
+560;China;Dalian
+561;China;Guilin
+562;China;Hohhot
+563;China;Xiamen
+564;China;Ningbo
+565;Thailand;Mae Hong Son
+566;Thailand;Chiang Rai
+567;Thailand;Chiang Mai
+568;Thailand;Tak
+569;Thailand;Phetchabun
+570;Thailand;Sukhothai
+571;Thailand;Khon Kaen
+572;Thailand;Ubon Ratchathani
+573;Thailand;Nakhon Ratchasima
+574;Thailand;Kanchanaburi
+575;Thailand;Pattaya
+576;Thailand;Hua Hin
+577;Thailand;Ko Samui
+578;Thailand;Songkhla
+579;Thailand;Phuket
+582;Denmark;Torshavn
+583;Denmark;Nuuk
+584;Poland;Szczecin
+585;Poland;Suwalki
+586;Poland;Wroclaw
+588;Myanmar;Mandalay
+589;Maldives;Gan - Addu Atoll
+590;Jordan;Irbid
+591;Jordan;Aqaba
+592;Dominican Republic;Barahona
+593;Dominican Republic;La Romana
+594;Dominican Republic;Montecristi
+595;Dominican Republic;Puerto Plata
+596;Dominican Republic;Punta Cana
+597;Dominican Republic;San Juan
+598;Dominican Republic;Santiago
+600;Italy;Bari
+601;Italy;Cagliari
+602;Italy;Florence (FIRENZE)
+603;Italy;Milan (MILANO)
+604;Italy;Naples (NAPOLI)
+605;Italy;Palermo
+606;Italy;Venice (VENEZIA)
+607;Lithuania;Kaunas
+608;Lithuania;Klaipeda
+613;Canada;Iqaluit, Nunavut
+614;Canada;Whitehorse, Yukon Territories
+615;Canada;Yellowknife, Northwest Territories
+616;Canada;Prince Rupert, British Columbia
+617;Canada;Kamloops, British Columbia
+618;Canada;Cranbrook, British Columbia
+619;Canada;Prince George, British Columbia
+620;Canada;Victoria, British Columbia
+621;Canada;Edmonton, Alberta
+622;Canada;Calgary, Alberta
+623;Canada;Banff, Alberta
+624;Canada;Red Deer, Alberta
+625;Canada;Grande Prairie, Alberta
+626;Canada;Medicine Hat, Alberta
+627;Canada;Lethbridge, Alberta
+628;Canada;Saskatoon, Saskatchewan
+629;Canada;Regina, Saskatchewan
+630;Canada;Winnipeg, Manitoba
+631;Canada;Thunder Bay, Ontario
+632;Canada;Sudbury, Ontario
+633;Canada;Windsor, Ontario
+634;Canada;Montreal, Quebec
+635;Canada;Quebec, Quebec
+636;Canada;Fredericton, New Brunswick
+637;Canada;Halifax, Nova Scotia
+638;Canada;Sydney, Nova Scotia
+639;Canada;Charlottetown, Prince Edward Island
+640;Canada;Goose Bay, Newfoundland
+641;Canada;Saint John NB, New Brunswick
+642;Canada;St Johns, Newfoundland
+643;Canada;Inuvik, Northwest Territories
+644;Lao People's Democratic Republic;Luangphrabang
+645;Lao People's Democratic Republic;Savannakhet
+646;Lao People's Democratic Republic;Pakse
+647;Indonesia;Medan
+648;Indonesia;Surabaya
+649;Indonesia;Denpasar
+650;Indonesia;Ujung Pandang
+651;Indonesia;Manado
+652;Indonesia;Biak
+653;Indonesia;Pontianak
+654;Indonesia;Lombok
+655;Indonesia;Ambon
+656;Viet Nam;Da Nang
+657;Russian Federation;Novgorod
+658;Russian Federation;Kostroma
+659;Russian Federation;Ufa
+660;Russian Federation;Omsk
+661;Russian Federation;Krasnojarsk
+662;Russian Federation;Irkutsk
+663;Russian Federation;Habarovsk
+664;Russian Federation;Vladivostok
+665;Russian Federation;Petropavlovsk-Kamca
+667;United Republic of Tanzania;Dodoma
+668;United Republic of Tanzania;Mtwara
+669;United Republic of Tanzania;Mwanza
+670;United Republic of Tanzania;Tabora
+671;United Republic of Tanzania;Tanga
+672;United Republic of Tanzania;Zanzibar
+673;Vanuatu;Port Vila
+674;Vanuatu;Luganville
+681;Australia;Christmas Island
+683;Australia;Cocos Island
+684;Australia;Dalwallinu
+687;Australia;Lithgow
+693;Czech Republic;Brno
+695;Saudi Arabia;Madinah
+697;Saudi Arabia;Tabouk
+698;Saudi Arabia;Jizan
+699;Saudi Arabia;Jeddah
+700;Saudi Arabia;Makkah
+701;Peru;Trujillo
+702;Peru;Tacna
+703;United States of America;Abilene, Texas
+704;Cuba;Pinar Del Rio
+705;Cuba;Varadero
+706;Cuba;Cienfuegos
+707;Cuba;Cayo Coco
+708;Cuba;Camaguey
+709;Cuba;Holguin
+710;Cuba;Santiago De Cuba
+711;United States of America;Akron, Ohio
+712;United States of America;Albany, New York
+713;United States of America;Albuquerque, New Mexico
+714;United States of America;Allentown, Pennsylvania
+715;United States of America;Amarillo, Texas
+716;United States of America;Anchorage, Alaska
+717;United States of America;Asheville, North Carolina
+718;United States of America;Atlantic City, New Jersey
+719;United States of America;Austin, Texas
+720;United States of America;Baltimore, Maryland
+721;United States of America;Baton Rouge, Louisiana
+722;United States of America;Billings, Montana
+723;United States of America;Birmingham, Alabama
+724;United States of America;Bismarck, North Dakota
+725;United States of America;Boise, Idaho
+726;United States of America;Bridgeport, Connecticut
+727;United States of America;Brownsville, Texas
+728;United States of America;Buffalo, New York
+729;United States of America;Burlington, Vermont
+730;United States of America;Caribou, Maine
+731;United States of America;Casper, Wyoming
+732;United States of America;Charleston, South Carolina
+733;United States of America;Charleston, West Virginia
+734;United States of America;Charlotte, North Carolina
+735;United States of America;Chattanooga, Tennessee
+736;United States of America;Cheyenne, Wyoming
+737;United States of America;Cincinnati, Ohio
+738;United States of America;Cleveland, Ohio
+739;United States of America;Colorado Springs, Colorado
+740;United States of America;Columbia, South Carolina
+741;United States of America;Columbus, Georgia
+742;United States of America;Columbus, Ohio
+743;United States of America;Concord, New Hampshire
+744;United States of America;Corpus Christi, Texas
+745;United States of America;Dallas Ft Worth, Texas
+746;United States of America;Dayton, Ohio
+747;United States of America;Daytona Beach, Florida
+748;United States of America;Des Moines, Iowa
+749;United States of America;Duluth, Minnesota
+750;United States of America;El Paso, Texas
+751;United States of America;Elkins, West Virginia
+752;United States of America;Erie, Pennsylvania
+753;United States of America;Eugene, Oregon
+754;United States of America;Evansville, Indiana
+755;United States of America;Fairbanks, Alaska
+756;United States of America;Fargo, North Dakota
+757;United States of America;Flagstaff, Arizona
+758;United States of America;Flint, Michigan
+759;United States of America;Fort Smith, Arkansas
+760;United States of America;Fort Wayne, Indiana
+761;United States of America;Fresno, California
+762;United States of America;Goodland, Kansas
+763;United States of America;Grand Junction, Colorado
+764;United States of America;Grand Rapids, Michigan
+765;United States of America;Great Falls, Montana
+766;United States of America;Green Bay, Wisconsin
+767;United States of America;Greensboro, North Carolina
+768;United States of America;Harrisburg, Pennsylvania
+769;United States of America;Helena, Montana
+770;United States of America;Houston, Texas
+771;United States of America;Huntsville, Alabama
+772;United States of America;Indianapolis, Indiana
+773;United States of America;Jackson, Mississippi
+774;United States of America;Jacksonville, Florida
+775;United States of America;Juneau, Alaska
+776;United States of America;Kansas City, Missouri
+777;United States of America;Key West, Florida
+778;United States of America;Knoxville, Tennessee
+779;United States of America;Lake Charles, Louisiana
+780;United States of America;Lansing, Michigan
+781;United States of America;Las Vegas, Nevada
+782;United States of America;Lexington, Kentucky
+783;United States of America;Lincoln, Nebraska
+784;United States of America;Little Rock, Arkansas
+785;United States of America;Louisville, Kentucky
+786;United States of America;Lubbock, Texas
+787;United States of America;Macon, Georgia
+788;United States of America;Madison, Wisconsin
+789;United States of America;Medford, Oregon
+790;United States of America;Memphis, Tennessee
+791;United States of America;Milwaukee, Wisconsin
+792;United States of America;Mobile, Alabama
+793;United States of America;Montgomery, Alabama
+794;United States of America;Nashville, Tennessee
+795;United States of America;New Orleans, Louisiana
+796;United States of America;Newark, New Jersey
+797;United States of America;Norfolk, Virginia
+798;United States of America;North Platte, Nebraska
+799;United States of America;Oklahoma City, Oklahoma
+800;United States of America;Omaha, Nebraska
+801;United States of America;Orlando, Florida
+802;United States of America;Paducah, Kentucky
+803;United States of America;Pendleton, Oregon
+804;United States of America;Peoria, Illinois
+805;United States of America;Philadelphia, Pennsylvania
+806;United States of America;Phoenix, Arizona
+807;United States of America;Pittsburgh, Pennsylvania
+808;United States of America;Pocatello, Idaho
+809;United States of America;Portland, Maine
+810;United States of America;Portland, Oregon
+811;United States of America;Providence, Rhode Island
+812;United States of America;Pueblo, Colorado
+813;United States of America;Raleigh & Durham, North Carolina
+814;United States of America;Rapid City, South Dakota
+815;United States of America;Reno, Nevada
+816;United States of America;Richmond, Virginia
+817;United States of America;Roanoke, Virginia
+818;United States of America;Rochester, New York
+819;United States of America;Rockford, Illinois
+820;United States of America;Sacramento, California
+821;United States of America;St. Louis, Missouri
+822;United States of America;Salem, Oregon
+823;United States of America;Salt Lake City, Utah
+824;United States of America;San Angelo, Texas
+825;United States of America;San Antonio, Texas
+826;United States of America;San Diego, California
+827;United States of America;Sault Ste. Marie, Michigan
+828;United States of America;Savannah, Georgia
+829;United States of America;Shreveport, Louisiana
+830;United States of America;Sioux City, Iowa
+831;United States of America;Sioux Falls, South Dakota
+832;United States of America;South Bend, Indiana
+833;United States of America;Spokane, Washington
+834;United States of America;Springfield, Illinois
+835;United States of America;Springfield, Missouri
+836;United States of America;Syracuse, New York
+837;United States of America;Tallahassee, Florida
+838;United States of America;Toledo, Ohio
+839;United States of America;Topeka, Kansas
+840;United States of America;Tucson, Arizona
+841;United States of America;Tulsa, Oklahoma
+842;United States of America;Waco, Texas
+843;United States of America;West Palm Beach, Florida
+844;United States of America;Wichita Falls, Texas
+845;United States of America;Wilkes Barre, Pennsylvania
+846;United States of America;Yakima, Washington
+847;United States of America;Youngstown, Ohio
+848;United States of America;Yuma, Arizona
+849;United States of America;Honolulu, Hawaii
+850;United States of America;San Juan, Puerto Rico
+851;United States of America;Wichita, Kansas
+852;United States of America;San Jose, California
+853;United States of America;Tampa, Florida
+854;Kenya;Eldoret
+855;Argentina;Cordoba
+856;Argentina;Mendoza
+857;Argentina;Iguazu
+858;Argentina;Bariloche
+859;Argentina;Ushuaia
+860;Saudi Arabia;Dammam
+861;Saudi Arabia;Abha
+862;Saudi Arabia;Al-Baha
+863;Saudi Arabia;Hail
+864;Saudi Arabia;Taif
+866;Colombia;Apartado
+867;Colombia;Arauca
+868;Colombia;Armenia
+869;Colombia;Barrancabermeja
+870;Colombia;Bucaramanga
+871;Colombia;Cucuta
+872;Colombia;Florencia
+873;Colombia;Ibague
+874;Colombia;Leticia
+875;Colombia;Manizales
+876;Colombia;Monteria
+877;Colombia;Neiva
+878;Colombia;Pasto
+879;Colombia;Pereira
+880;Colombia;Popayan
+881;Colombia;Providencia
+882;Colombia;Puerto Carreno
+883;Colombia;Quibdo
+884;Colombia;Riohacha
+885;Colombia;San Andres, Island
+886;Colombia;Santa Marta
+887;Colombia;Tunja
+888;Colombia;Tumaco
+889;Colombia;Valledupar
+890;Colombia;Villavicencio
+891;Pakistan;Lahore
+892;Pakistan;Karachi
+893;Pakistan;Peshawar
+894;Pakistan;Quetta
+895;Pakistan;Nawabshah
+896;Pakistan;Hyderabad
+897;Pakistan;Gilgit
+898;Pakistan;Faisalabad
+899;Pakistan;Multan
+900;Pakistan;Murree
+901;Pakistan;Muzaffarabad
+902;France;Nice
+903;Kenya;Kisumu
+904;Austria;Klagenfurt
+905;Austria;Innsbruck
+906;Guatemala;Guatemala City
+907;Norway;Trondheim
+908;Norway;Kristiansand
+909;Tajikistan;Kurgan-Tube
+910;Tajikistan;Khujand
+911;Tajikistan;Khorog
+912;Kingdom of Eswatini;Mbabane
+913;Kingdom of Eswatini;Manzini
+914;Russian Federation;Arhangel'sk
+915;Russian Federation;Saratov
+916;Russian Federation;Ekaterinburg
+917;Russian Federation;Jakutsk
+918;Russian Federation;Magadan
+919;Bulgaria;Varna
+920;Czech Republic;Ostrava
+921;Ghana;Accra
+922;Ghana;Kumasi
+923;Mozambique;Vilanculos
+924;Guinea;Kindia
+925;Guinea;Boke
+926;Guinea;Mamou
+927;Guinea;Labe
+928;Guinea;Koundara
+929;Guinea;Kankan
+930;Guinea;Faranah
+931;Guinea;Siguiri
+932;Guinea;Kissidougou
+933;Guinea;Macenta
+934;Guinea;N'Zerekore
+935;Iran, Islamic Republic of;Esfahan
+936;Iran, Islamic Republic of;Shiraz
+937;Iran, Islamic Republic of;Tabriz
+938;Iran, Islamic Republic of;Mashhad
+939;Iran, Islamic Republic of;Ahwaz
+940;Iran, Islamic Republic of;Bushehr
+941;Iran, Islamic Republic of;Kerman
+942;Iran, Islamic Republic of;Zahedan
+943;Iran, Islamic Republic of;Bandarabbas
+944;Belgium;Ostend
+945;Belgium;Kleine Brogel
+946;Belgium;St. Hubert
+947;Belgium;Virton
+948;Ireland;Galway
+949;Ireland;Donegal
+950;Zimbabwe;Bulawayo
+951;Zimbabwe;Kwekwe
+952;Zimbabwe;Kadoma
+953;Zimbabwe;Gweru
+954;Zimbabwe;Mutare
+955;Zimbabwe;Gokwe
+956;Zimbabwe;Mount Darwin
+957;Zimbabwe;Karoi
+958;Zimbabwe;Marondera
+959;Zimbabwe;Rusape
+960;Zimbabwe;Plumtree
+961;Zimbabwe;Masvingo
+962;Zimbabwe;Victoria Falls
+963;Zimbabwe;Beitbridge
+964;Zimbabwe;Chipinge
+965;Zimbabwe;Hwange
+966;Zimbabwe;Kariba
+967;Russian Federation;Murmansk
+968;Russian Federation;Petrozavodsk
+969;Russian Federation;Dudinka
+970;Russian Federation;Nar'jan-Mar
+971;Russian Federation;Salehard
+972;Russian Federation;Syktyvkar
+973;Russian Federation;Hanty-Mansijsk
+974;Russian Federation;Tura
+975;Russian Federation;Anadyr'
+976;Russian Federation;Pskov
+977;Russian Federation;Kaliningrad
+978;Russian Federation;Smolensk
+979;Russian Federation;Brjansk
+980;Russian Federation;Vologda
+981;Russian Federation;Kirov
+982;Russian Federation;Jaroslavl'
+983;Russian Federation;Ivanovo
+984;Russian Federation;Tver'
+985;Russian Federation;Joskar-Ola
+986;Russian Federation;Kazan'
+987;Russian Federation;Vladimir
+988;Russian Federation;Niznij Novgorod
+989;Russian Federation;Cheboksary
+990;Russian Federation;Kaluga
+991;Russian Federation;Tula
+992;Russian Federation;Rjazan'
+993;Russian Federation;Saransk
+994;Russian Federation;Ulyanovsk
+995;Russian Federation;Orel
+996;Russian Federation;Lipeck
+997;Russian Federation;Tambov
+998;Russian Federation;Penza
+999;Russian Federation;Kudymkar
+1000;Russian Federation;Perm'
+1001;Russian Federation;Tjumen'
+1002;Russian Federation;Izhevsk
+1003;Russian Federation;Cheljabinsk
+1004;Russian Federation;Kurgan
+1005;Russian Federation;Samara
+1006;Russian Federation;Tomsk
+1007;Russian Federation;Novosibirsk
+1008;Russian Federation;Kemerovo
+1009;Russian Federation;Barnaul
+1010;Russian Federation;Hakasskaja
+1011;Russian Federation;Ust'ordynskiy
+1012;Russian Federation;Chita
+1013;Russian Federation;Ulan-Ude
+1014;Russian Federation;Aginskoe
+1015;Russian Federation;Blagovescensk
+1017;Russian Federation;Juzhno-Sahalinsk
+1019;Russian Federation;Kursk
+1020;Russian Federation;Voronez
+1021;Russian Federation;Belgorod
+1022;Russian Federation;Volgograd
+1023;Russian Federation;Azov
+1024;Russian Federation;Rostov-Na-Donu
+1025;Russian Federation;Elista
+1026;Russian Federation;Astrahan'
+1027;Russian Federation;Krasnodar
+1028;Russian Federation;Stavropol'
+1029;Russian Federation;Orenburg
+1030;Russian Federation;Turocak
+1031;Russian Federation;Kyzyl
+1032;Russian Federation;Maikop
+1033;Russian Federation;Nevinnomyssk
+1034;Russian Federation;Nal'cik
+1036;Russian Federation;Ordzhonikedzevskaja
+1037;Russian Federation;Groznyj
+1038;Russian Federation;Mahackala
+1039;Russian Federation;Surgut
+1040;Russian Federation;Tiksi
+1041;Sweden;Malmo
+1042;Sweden;Gothenburg
+1043;Sweden;Norrkoping
+1044;Sweden;Sundsvall
+1045;Sweden;Kiruna
+1046;Russian Federation;Palana
+1047;Russian Federation;Birobidzan
+1048;Suriname;Paramaribo
+1050;France;Bordeaux
+1051;France;Brest
+1052;France;Clermont Ferrand
+1053;France;Lille
+1054;France;Lyon
+1055;France;Marseille
+1056;France;Nantes
+1057;France;Strasbourg
+1058;France;Toulouse
+1059;Sri Lanka;Mannar
+1060;Brazil;Aracaju
+1061;Brazil;Belem
+1062;Brazil;Belo Horizonte
+1063;Brazil;Boa Vista
+1064;Brazil;Campo Grande
+1065;Brazil;Cuiaba
+1066;Brazil;Curitiba
+1067;Brazil;Florianopolis
+1068;Brazil;Fortaleza
+1069;Brazil;Goiania
+1070;Brazil;Joao Pessoa
+1071;Brazil;Macapa
+1072;Brazil;Maceio
+1073;Brazil;Manaus
+1074;Brazil;Natal
+1075;Brazil;Palmas
+1076;Brazil;Porto Alegre
+1077;Brazil;Porto Velho
+1078;Brazil;Recife
+1079;Brazil;Rio Branco
+1080;Brazil;Rio De Janeiro
+1081;Brazil;Salvador
+1082;Brazil;Sao Luis
+1083;Brazil;Sao Paulo
+1084;Brazil;Teresina
+1085;Brazil;Vitoria
+1086;Australia;Darwin Rural
+1087;Belize;Belmopan City
+1088;Philippines;Baguio
+1089;Philippines;Tagaytay
+1090;Philippines;Metro Cebu
+1091;Philippines;Metro Davao
+1092;Philippines;Cagayan de Oro City
+1093;Philippines;Laoag
+1094;Philippines;Tuguegarao
+1095;Philippines;Cabanatuan
+1096;Philippines;Legaspi
+1097;Philippines;Calapan
+1098;Philippines;Iloilo/Bacolod
+1099;Philippines;Roxas
+1100;Philippines;Dumaguete
+1101;Philippines;Catbalogan
+1102;Philippines;Tacloban
+1103;Philippines;Tagbilaran
+1104;Philippines;Surigao
+1105;Philippines;General Santos
+1106;Philippines;Dipolog
+1108;Russian Federation;Abakan
+1109;Russian Federation;Nazran'
+1110;Russian Federation;Vladikavkaz
+1111;Russian Federation;Cherkessk
+1112;Russian Federation;Gorno-Altaisk
+1113;Costa Rica;San Jose
+1114;Costa Rica;Heredia
+1115;Costa Rica;Cartago
+1116;Costa Rica;Turrialba
+1117;Costa Rica;Sixaola
+1119;Costa Rica;Limon
+1120;Costa Rica;Guapiles
+1121;Costa Rica;Los Chiles
+1122;Costa Rica;Upala
+1124;Costa Rica;Liberia
+1125;Costa Rica;Filadelfia
+1126;Costa Rica;Canas
+1127;Costa Rica;Nicoya
+1128;Costa Rica;Puntarenas
+1129;Costa Rica;Quepos
+1130;Costa Rica;San Isidro
+1132;Mongolia;Baganuur district
+1133;Mongolia;Ulgii
+1134;Mongolia;Ulaangom
+1135;Mongolia;Uliastai
+1136;Mongolia;Tosontsengel
+1137;Mongolia;Khovd
+1138;Mongolia;Govi-Altai
+1139;Mongolia;Bayankhongor
+1140;Mongolia;Murun
+1141;Mongolia;Khatgal
+1142;Mongolia;Tsetserleg
+1143;Mongolia;Arvaikheer
+1144;Mongolia;Kharkhorin
+1145;Mongolia;Bulgan
+1146;Mongolia;Sukhbaatar
+1147;Mongolia;Zuunmod
+1148;Mongolia;Darkhan
+1149;Mongolia;Erdenet
+1150;Mongolia;Choir
+1151;Mongolia;Undurkhaan
+1152;Mongolia;Choibalsan
+1153;Mongolia;Baruun-Urt
+1154;Mongolia;Mandalgovi
+1155;Mongolia;Dalanzadgad
+1156;Mongolia;Khanbogd
+1157;Mongolia;Sainshand
+1158;Mongolia;ZamiinUud
+1159;Australia;Cabramurra
+1160;Australia;Penrith
+1161;Australia;Perisher Valley
+1162;Australia;Thredbo
+1163;Bangladesh;Dhaka
+1164;Bangladesh;Chittagong
+1165;Bangladesh;Sylhet
+1166;Bangladesh;Rajshahi
+1167;Bangladesh;Khulna
+1168;Bangladesh;Barishal
+1169;Chad;Abeche
+1170;Chad;Bol
+1171;Chad;Moundou
+1172;Chad;Sarh
+1173;Chad;Faya-Largeau
+1174;Chad;Mongo
+1175;Paraguay;Ciudad Del Este
+1176;Paraguay;Pedro Juan Caballero
+1177;Paraguay;Encarnacion
+1178;Paraguay;Mariscal Jose Felix Estigarribia
+1179;Libya;Tripoli
+1180;Libya;Ghat
+1181;Libya;Sirte
+1182;Libya;Benghazi
+1183;Afghanistan;Herat
+1186;El Salvador;Santa Ana
+1187;El Salvador;Acajutla
+1188;El Salvador;San Miguel
+1189;El Salvador;Nueva Concepcion
+1190;United Arab Emirates;Dubai
+1191;United Arab Emirates;Ras Al Khaimah
+1192;Australia;Brisbane Bayside
+1193;Australia;Scoresby
+1194;Libya;Ghadames
+1195;Libya;Sebha
+1196;Venezuela, Bolivarian Republic of;Coro
+1197;Venezuela, Bolivarian Republic of;Maracaibo
+1198;Venezuela, Bolivarian Republic of;Maracay
+1199;Venezuela, Bolivarian Republic of;Maiquetia
+1200;Venezuela, Bolivarian Republic of;Margarita
+1201;Venezuela, Bolivarian Republic of;Merida
+1202;Venezuela, Bolivarian Republic of;Cd. Bolivar
+1203;Venezuela, Bolivarian Republic of;San Fernando
+1204;Mexico;Los Cabos
+1205;Mexico;Puerto Vallarta
+1206;Mexico;Guadalajara
+1207;Mexico;Acapulco
+1208;Mexico;Monterrey
+1209;Mexico;Cancun
+1210;Australia;Roebourne
+1212;Australia;Wyndham
+1214;Australia;Fitzroy Crossing
+1215;Australia;Kalumburu
+1216;Australia;Onslow
+1217;Australia;Wudinna
+1218;Australia;Denham
+1219;Mauritius;Port Louis
+1220;Mauritius;Vacoas
+1221;Panama;Panama City
+1222;Saint Lucia;Castries
+1223;Slovakia;Zilina
+1224;Slovakia;Hurbanovo
+1225;Slovakia;Sliac
+1226;Slovakia;Lucenec
+1227;Slovakia;Poprad
+1228;Slovakia;Kosice
+1229;Slovakia;Tisinec
+1230;Samoa;Apia
+1231;Spain;A Coruna
+1232;Spain;Barcelona
+1233;Spain;Bilbao
+1234;Spain;Las Palmas de Gran Canaria
+1235;Spain;Malaga
+1236;Spain;Palma de Mallorca
+1237;Spain;Sevilla
+1238;Spain;Valencia
+1239;Spain;Valladolid
+1240;Spain;Zaragoza
+1241;Panama;David
+1242;Panama;Santiago
+1243;Panama;Los Santos
+1244;Panama;Anton
+1245;Panama;Bocas del Toro
+1246;Papua New Guinea;Port Moresby
+1248;Saint Lucia;Vieux-Fort
+1249;Philippines;Kidapawan
+1250;Philippines;Puerto Princesa
+1251;Australia;Marble Bar
+1252;Australia;Norseman
+1253;Australia;Robe
+1256;Australia;Argyle
+1257;Australia;Laverton [VIC]
+1259;Australia;Leonora
+1260;Australia;Tom Price
+1261;Syrian Arab Republic;Aleppo
+1262;Syrian Arab Republic;Deir Ezzor
+1263;Syrian Arab Republic;Lattakia
+1264;Syrian Arab Republic;Palmyra
+1265;Syrian Arab Republic;Qamishli
+1266;Syrian Arab Republic;Dara'a
+1267;Syrian Arab Republic;Homs
+1268;Egypt;Alexandria
+1269;Egypt;Sharm El-Sheikh
+1270;Egypt;Hurghada
+1271;Egypt;Luxor
+1272;Egypt;Asswan
+1273;Bhutan;Paro
+1274;Bhutan;Wangdi Phodrang
+1275;Bhutan;Bumthang
+1276;Bhutan;Mongar
+1277;Mexico;Aguascalientes
+1278;Mexico;Ciudad Juarez
+1279;Mexico;Chihuahua
+1280;Mexico;Cozumel
+1281;Mexico;Cuernavaca
+1282;Mexico;Culiacan
+1283;Mexico;Hermosillo
+1284;Mexico;Huatulco
+1285;Mexico;Ixtapa Zihuatanejo
+1286;Mexico;Jalapa
+1287;Mexico;Leon
+1288;Mexico;Manzanillo
+1289;Mexico;Mazatlan
+1290;Mexico;Merida
+1291;Mexico;Mexicali
+1292;Mexico;Morelia
+1293;Mexico;Puebla
+1294;Mexico;Queretaro
+1295;Mexico;Reynosa
+1296;Mexico;Saltillo
+1297;Mexico;San Luis Potosi
+1298;Mexico;Tampico
+1299;Mexico;Tijuana
+1300;Mexico;Toluca
+1301;Mexico;Torreon
+1302;Mexico;Veracruz
+1303;Mexico;Villahermosa
+1304;Zambia;Kabwe
+1305;Zambia;Chipata
+1306;Zambia;Kasama
+1307;Zambia;Livingstone
+1308;Zambia;Mansa
+1309;Zambia;Mongu
+1310;Zambia;Ndola
+1311;Zambia;Solwezi
+1312;Australia;Tuggeranong
+1313;Australia;Parramatta
+1314;Australia;Terrey Hills
+1315;Australia;Springwood
+1316;Australia;Narrabri
+1317;Australia;Merimbula
+1318;Australia;Ivanhoe
+1319;Australia;Glen Innes
+1320;Australia;Forster
+1321;Australia;Young
+1322;Australia;Singleton
+1323;Colombia;Yopal
+1324;Colombia;Sincelejo
+1325;Colombia;Mitu
+1326;Colombia;Puerto Inirida
+1327;Colombia;Mocoa
+1328;Uganda;Kampala
+1329;Uganda;Entebbe
+1330;Lesotho;Maseru
+1331;Lesotho;Mafeteng
+1332;Lesotho;Mohale's Hoek
+1333;Lesotho;Quthing
+1334;Lesotho;Qacha's Nek
+1335;Lesotho;Mokhotlong
+1336;Lesotho;Oxbow
+1337;Lesotho;Butha-Buthe
+1338;Lesotho;Leribe
+1339;Lesotho;Berea
+1340;Lesotho;Thaba-Tseka
+1341;Lesotho;Semonkong
+1342;Germany;Bremen
+1343;Germany;Dresden
+1344;Germany;Erfurt
+1345;Germany;Essen
+1346;Germany;Freiburg
+1347;Germany;Hannover
+1348;Germany;Kassel
+1349;Germany;Kiel
+1350;Germany;Leipzig
+1351;Germany;Magdeburg
+1352;Germany;Nuernberg
+1353;Germany;Oberstdorf
+1354;Germany;Regensburg
+1355;Germany;Rostock
+1356;Germany;Saarbruecken
+1357;Germany;Stuttgart
+1358;Germany;Trier
+1359;Algeria;Constantine
+1360;Algeria;Ghardaia
+1361;Algeria;Oran
+1362;Algeria;Tamanrasset
+1363;Turkey;Diyarbakir
+1364;Turkey;Edirne
+1365;Turkey;Konya
+1366;Turkey;Mugla
+1367;Turkey;Nevsehir
+1368;Turkey;Sanliurfa
+1369;Turkey;Trabzon
+1370;Turkey;Van
+1371;Turkey;Zonguldak
+1372;United Kingdom of Great Britain and Northern Ireland;Jersey
+1373;United Kingdom of Great Britain and Northern Ireland;Guernsey
+1374;United Kingdom of Great Britain and Northern Ireland;Isle of Man
+1375;Peru;Pucallpa
+1376;Peru;Juliaca
+1377;United Kingdom of Great Britain and Northern Ireland;Hamilton
+1378;Montenegro;Podgorica
+1379;Ghana;Takoradi
+1380;Ghana;Cape Coast
+1381;Ghana;Ho
+1382;Ghana;Sunyani
+1383;Ghana;Kete-Krachi
+1384;Ghana;Tamale
+1385;Ghana;Yendi
+1386;Ghana;Navrongo
+1387;Ghana;Wa
+1388;Serbia;Kragujevac
+1389;Serbia;Nis
+1390;Serbia;Novi Sad
+1391;Serbia;Pristina
+1392;Serbia;Zlatibor
+1393;Oman;Adam
+1394;Oman;Bahla
+1395;Oman;Buraimi
+1396;Oman;Dibba
+1397;Oman;Duqam Airport
+1398;Oman;Fahud
+1399;Oman;Haima
+1400;Oman;Halaniyat
+1401;Oman;Ibra
+1402;Oman;Ibri
+1403;Oman;Jabal_Qamar
+1404;Oman;Jabal_Samhan
+1405;Oman;Khassab
+1406;Oman;Madha
+1407;Oman;Marmul
+1408;Oman;Masirah
+1409;Oman;Mhout
+1410;Oman;Salalah Port
+1411;Oman;Mudhebi
+1412;Oman;Nizwa
+1413;Oman;Qairoon
+1414;Oman;Raysut
+1415;Oman;Rustaq
+1416;Oman;Saiq
+1417;Oman;Samail
+1418;Oman;Sohar
+1419;Oman;Sur
+1420;Oman;Suwiq
+1421;Oman;Thumrait
+1422;Bulgaria;Plovdiv
+1423;Republic of Moldova;Balti
+1424;Republic of Moldova;Cahul
+1425;Republic of Moldova;Tiraspol
+1426;Papua New Guinea;Daru
+1427;Papua New Guinea;Goroka
+1428;Papua New Guinea;Kavieng
+1429;Papua New Guinea;Lae City
+1430;Papua New Guinea;Madang
+1431;Papua New Guinea;Rabaul
+1432;Papua New Guinea;Vanimo
+1433;Papua New Guinea;Wewak
+1434;Algeria;Annaba
+1435;Algeria;Bechar
+1436;Algeria;Biskra
+1437;Algeria;Djanet
+1438;Algeria;Djelfa
+1439;Algeria;Setif
+1440;Algeria;Tlemcen
+1441;Cyprus;Nicosia
+1442;Cyprus;Paphos Airport
+1443;Iran, Islamic Republic of;Arak
+1444;Iran, Islamic Republic of;Ardabil
+1445;Iran, Islamic Republic of;Birjand
+1446;Iran, Islamic Republic of;Bojnoord
+1447;Iran, Islamic Republic of;Ghazvin
+1448;Iran, Islamic Republic of;Ghom
+1449;Iran, Islamic Republic of;Gorgan
+1450;Iran, Islamic Republic of;Hamedan
+1451;Iran, Islamic Republic of;Ilam
+1452;Iran, Islamic Republic of;Kermanshah
+1453;Iran, Islamic Republic of;Khoramabad
+1454;Iran, Islamic Republic of;Orumiyeh
+1455;Iran, Islamic Republic of;Rasht
+1456;Iran, Islamic Republic of;Sanandaj
+1457;Iran, Islamic Republic of;Sari
+1458;Iran, Islamic Republic of;Semnan
+1459;Iran, Islamic Republic of;Shahrekord
+1460;Iran, Islamic Republic of;Yasouj
+1461;Iran, Islamic Republic of;Yazd
+1462;Iran, Islamic Republic of;Zanjan
+1463;Iraq;Amarah
+1464;Iraq;Baghdad
+1465;Iraq;Karbala
+1466;Iraq;Kirkuk
+1467;Iraq;Mosul
+1468;Iraq;Nasiriya
+1469;Vanuatu;Lakatoro
+1470;Vanuatu;Lenakel
+1471;Vanuatu;Saratamata
+1472;Vanuatu;Sola
+1473;New Caledonia;Belep
+1474;New Caledonia;Bourail
+1475;New Caledonia;Chaine Nord
+1476;New Caledonia;Chaine Sud
+1477;New Caledonia;Iles des pins
+1478;New Caledonia;Kone
+1479;New Caledonia;Koumac
+1480;New Caledonia;Lifou
+1481;New Caledonia;Mare
+1482;New Caledonia;Ouegoua
+1483;New Caledonia;Ouvea
+1484;New Caledonia;Phare Amedee
+1485;New Caledonia;Poindimie
+1486;New Caledonia;Thio
+1487;New Caledonia;Yate
+1488;Philippines;Boracay Island, Malay
+1489;Guyana;Anna Regina
+1490;Guyana;Bartica
+1491;Guyana;Ebini
+1492;Guyana;Kamarang
+1493;Guyana;Lethem
+1494;Guyana;Linden
+1495;Guyana;Mabaruma
+1496;Guyana;New Amsterdam
+1497;Guyana;Timehri
+1498;Kuwait;Kuwait City
+1499;North Macedonia;Ohrid
+1500;Haiti;Port-au-Prince
+1501;Lao People's Democratic Republic;Luangnamtha
+1502;Lao People's Democratic Republic;Xiengkhuang
+1503;Uganda;Kasese
+1504;Uganda;Soroti
+1505;Rwanda;Ngoma
+1506;Rwanda;Gicumbi
+1507;Rwanda;Musanze
+1508;Rwanda;Rusizi
+1509;Rwanda;Karongi
+1510;Rwanda;Rubavu
+1511;Rwanda;Nyamagabe
+1512;Rwanda;Huye
+1513;Cameroon;Douala
+1514;Cameroon;Ngaoundere
+1515;Cameroon;Garoua
+1516;Cameroon;Bamenda
+1517;Cameroon;Kribi
+1518;Cameroon;Bertoua
+1519;Burundi;Bujumbura
+1520;Burundi;Ngozi
+1521;Burundi;Gitega
+1522;Burundi;Muyinga
+1523;Burundi;Musasa
+1524;Burundi;Nyanza Lac
+1525;Burundi;Rwegura
+1526;Burkina Faso;Bobo Dioulasso
+1527;Burkina Faso;Boromo
+1528;Burkina Faso;Dedougou
+1529;Burkina Faso;Dori
+1530;Burkina Faso;Fada Ngourma
+1531;Burkina Faso;Gaoua
+1532;Burkina Faso;Ouagadougou Aero
+1533;Burkina Faso;Ouahigouya
+1534;Burkina Faso;Po
+1535;Sudan;Port Sudan
+1536;Sudan;Dongola
+1537;Sudan;Kassala
+1538;Sudan;Elobeid
+1539;Sudan;Nyala
+1540;South Sudan;Malakal
+1541;South Sudan;Juba
+1542;Botswana;Gaborone
+1543;Botswana;Francistown
+1544;Botswana;Maun
+1545;Botswana;Kasane
+1546;Botswana;Ghanzi
+1547;Botswana;Sir Seretse Khama Airport
+1548;Lithuania;Siauliai
+1549;Lithuania;Panevezys
+1550;New Zealand;Dunedin
+1551;New Zealand;Hamilton
+1552;New Zealand;Hokitika
+1553;New Zealand;Kaitaia
+1554;New Zealand;Napier
+1555;New Zealand;Nelson
+1556;New Zealand;New Plymouth
+1557;New Zealand;Palmerston North
+1558;New Zealand;Queenstown
+1559;New Zealand;Rotorua
+1560;India;Agartala
+1561;India;Agra
+1562;India;Aizwal
+1563;India;Ajmer
+1564;India;Akola
+1565;India;Allahabad
+1566;India;Ambikapur
+1567;India;Amritsar
+1568;India;Aurangabad
+1569;India;Balasore
+1570;India;Bareilly
+1571;India;Baroda
+1573;India;Bhagalpur
+1574;India;Bhuj
+1575;India;Bikaner
+1576;India;Coimbatore
+1577;India;Cooch Behar
+1578;India;Dehradun
+1579;India;Dharamsala
+1580;India;Dibrugarh
+1581;India;Gadag
+1582;India;Gangtok
+1583;India;Gaya
+1584;India;Gopalpur
+1585;India;Gorakhpur
+1586;India;Gulbarga
+1587;India;Gwalior
+1588;India;Hissar
+1589;India;Imphal
+1590;India;Indore
+1591;India;Jabalpur
+1592;India;Jagdalpur
+1593;India;Jaisalmer
+1594;India;Jammu
+1595;India;Jamshedpur
+1596;India;Jharsuguda
+1597;India;Kanyakumari
+1598;India;Karnal
+1599;India;Kochi
+1600;India;Kodaikanal
+1601;India;Kohima
+1602;India;Kota
+1603;India;Kozhikode
+1604;India;Ludhiana
+1605;India;Madurai
+1606;India;Malda
+1607;India;Mangalore
+1608;India;Minicoy
+1609;India;Mukteshwar
+1610;India;Mysore
+1611;India;Nasik
+1612;India;New Delhi (Palam)
+1613;India;Parbhani
+1614;India;Passighat
+1615;India;Puducherry
+1616;India;Port Blair
+1617;India;Raipur
+1618;India;Rajkot
+1619;India;Ranchi
+1620;India;Silchar
+1621;India;Shillong
+1622;India;Shimla
+1623;India;Solapur
+1624;India;Sriniketan
+1625;India;Surat
+1626;India;Tiruchirapalli
+1627;India;Udaipur
+1628;India;Varanasi
+1629;India;Vijayawada
+1630;India;Vishakhapatnam
+1631;India;Salem
+1632;India;Vellore
+1633;Bahamas;Freeport
+1634;Bahamas;Inagua
+1635;Oman;Qaboos Port
+1636;Oman;Qalhat
+1637;Oman;Qarn Alam
+1638;India;Ambala
+1639;India;Kanpur
+1640;India;Jodhpur
+1641;India;Patiala
+1642;Colombia;Buenaventura
+1643;Colombia;Gaviotas
+1644;Colombia;Ipiales
+1645;Colombia;Lebrija
+1646;Colombia;Palmira
+1647;Colombia;Rionegro
+1648;Colombia;San Jose Del Guaviare
+1649;Australia;Albion Park
+1650;Australia;Ararat
+1651;Australia;Avalon
+1652;Australia;Ballina
+1653;Australia;Beechworth
+1654;Australia;Bellerive
+1655;Australia;Benalla
+1656;Australia;Bondi
+1657;Australia;Bothwell
+1658;Australia;Bridport
+1659;Australia;Campbell Town [TAS]
+1660;Australia;Campbell Town [NSW]
+1661;Australia;Cape Otway
+1662;Australia;Casterton
+1663;Australia;Castlemaine
+1664;Australia;Cerberus
+1665;Australia;Combienbar
+1666;Australia;Corryong
+1667;Australia;Cradle Valley
+1668;Australia;Cranbourne
+1669;Australia;Cressy
+1670;Australia;Currie
+1671;Australia;Dartmouth
+1672;Australia;Deloraine
+1673;Australia;Falls Creek
+1674;Australia;Gabo Island
+1675;Australia;George Town
+1676;Australia;Glenelg
+1677;Australia;Glenorchy
+1678;Australia;Hay
+1679;Australia;Heywood
+1680;Australia;Huonville
+1681;Australia;Jindabyne
+1682;Australia;Kerang
+1683;Australia;Kilmore Gap
+1684;Australia;Kingston
+1685;Australia;Kyabram
+1686;Australia;Lajamanu
+1687;Australia;Lake Eildon
+1688;Australia;Lake St Clair
+1689;Australia;Lakes Entrance
+1690;Australia;Longerenong
+1691;Australia;Mallacoota
+1692;Australia;Maningrida
+1694;Australia;Maryborough [VIC]
+1695;Australia;Melaleuca
+1696;Australia;Moorabbin
+1697;Australia;Mornington
+1698;Australia;Mortlake
+1699;Australia;Mount Barker
+1700;Australia;Mount Baw Baw
+1701;Australia;Mount Buller
+1702;Australia;Mount Dandenong
+1703;Australia;Mount Gambier
+1704;Australia;Mount Hotham
+1705;Australia;Mount Isa
+1706;Australia;Mount Moornapa
+1707;Australia;Mount Nowa Nowa
+1708;Australia;Mount Wellington
+1709;Australia;Mowbray
+1710;Australia;New Norfolk
+1711;Australia;Nhill
+1712;Australia;Normanton
+1713;Australia;Oatlands
+1714;Australia;Orford
+1715;Australia;Ouyen
+1716;Australia;Phillip Island
+1717;Australia;Pirlangimpi
+1718;Australia;Point Hicks
+1719;Australia;Port Arthur
+1720;Australia;Portland
+1721;Australia;Prospect
+1722;Australia;Queenstown
+1723;Australia;Redesdale
+1724;Australia;Rhyll
+1725;Australia;Richmond [NSW]
+1726;Australia;Richmond [TAS]
+1727;Australia;Rosebery
+1728;Australia;Ross
+1729;Australia;Rutherglen
+1730;Australia;Scottsdale
+1731;Australia;Sheoaks
+1732;Australia;Smithton
+1733;Australia;Strathbogie
+1734;Australia;Tarraleah
+1735;Australia;Tatura
+1736;Australia;The Entrance
+1737;Australia;Thursday Island
+1738;Australia;Tibooburra
+1739;Australia;Toronto
+1740;Australia;Tweed Heads
+1741;Australia;Ulverstone
+1742;Australia;Wadeye
+1743;Australia;Wallsend
+1744;Australia;Walpeup
+1745;Australia;Warracknabeal
+1746;Australia;Weeaproinah
+1747;Australia;Whitemark
+1748;Australia;Wilsons Promontory
+1749;Australia;Wynyard
+1750;Australia;Yarrawonga
+1751;Australia;Yass
+1752;Australia;Yuendumu
+1753;France;Ajaccio
+1754;Spain;Alicante/Alacant
+1755;Spain;Albacete
+1756;Spain;Almeria
+1757;Spain;Avila
+1758;Spain;Badajoz
+1759;Spain;Burgos
+1760;Spain;Caceres
+1761;Spain;Cadiz
+1762;Spain;Castellon de la Plana/Castello de la Plana
+1763;Spain;Ceuta
+1764;Spain;Ciudad Real
+1765;Spain;Cordoba
+1766;Spain;Cuenca
+1767;Spain;Donostia/San Sebastian
+1768;Spain;Girona
+1769;Spain;Granada
+1770;Spain;Guadalajara
+1771;Spain;Huelva
+1772;Spain;Huesca
+1773;Spain;Jaen
+1774;Spain;Leon
+1775;Spain;Lleida
+1776;Spain;Logrono
+1777;Spain;Lugo
+1778;Spain;Melilla
+1779;Spain;Murcia
+1780;Spain;Ourense
+1781;Spain;Oviedo
+1782;Spain;Palencia
+1783;Spain;Pamplona/Iruna
+1784;Spain;Pontevedra
+1785;Spain;Salamanca
+1786;Spain;Santander
+1787;Spain;Segovia
+1788;Spain;Soria
+1789;Spain;Tarragona
+1790;Spain;Teruel
+1791;Spain;Toledo
+1792;Spain;Vitoria-Gasteiz
+1793;Spain;Zamora
+1794;Kenya;Embu
+1795;Kenya;Garissa
+1796;Kenya;Lamu
+1797;Kenya;Makindu
+1798;Kenya;Malindi
+1799;Kenya;Marsabit
+1800;Kenya;Voi
+1801;Australia;Adventure Bay
+1802;Australia;Albury
+1803;Australia;Ben Lomond
+1804;Australia;Bicheno
+1805;Australia;Canterbury
+1806;Australia;Cessnock
+1807;Australia;Coles Bay
+1808;Australia;Cygnet
+1809;Australia;Dover
+1810;Australia;Evandale
+1811;Australia;Fingal
+1812;Australia;Frankston
+1813;Australia;Geeveston
+1814;Australia;Latrobe
+1815;Australia;Liawenee
+1816;Australia;Marrawah
+1817;Australia;Maydena
+1818;Australia;Mount Field
+1819;Australia;Ouse
+1820;Australia;Penguin
+1821;Australia;Sheffield
+1822;Australia;Sorell
+1823;Australia;St Marys
+1824;Australia;Strathgordon
+1825;Australia;The Corner
+1826;Australia;Tunnack
+1827;Australia;Waratah
+1828;Australia;Zeehan
+1829;Curacao and Sint Maarten;Oranjestad
+1830;Namibia;Windhoek
+1831;China;Anshan
+1832;China;Baoji
+1833;China;Baotou
+1834;China;Dali
+1835;China;Daqing
+1836;China;Datong
+1837;China;Fushun
+1838;China;Gaoxiong
+1839;China;Golmud
+1840;China;Huaibei
+1841;China;Huainan
+1842;China;Jilin
+1843;China;Jiujiang
+1844;China;Liuzhou
+1845;China;Luoyang
+1846;China;Naqu
+1847;China;Pingxiang
+1848;China;Qiqihaer
+1849;China;Quanzhou
+1850;China;Sanya
+1851;China;Shangqiu
+1852;China;Shantou
+1853;China;Shaoguan
+1854;China;Shenzhen
+1855;China;Shihezi
+1856;China;Siping
+1857;China;Suzhou
+1858;China;Taizhong
+1859;China;Tangshan
+1860;China;Tianshui
+1861;China;Wenzhou
+1862;China;Wuxi
+1863;China;Xianyang
+1864;China;Xuzhou
+1865;China;Yangquan
+1866;China;Yantai
+1867;China;Yichang
+1868;China;Yushu
+1869;China;Zhangjiakou
+1870;China;Zhanjiang
+1871;China;Zhuzhou
+1872;China;Zibo
+1873;China;Zigong
+1874;China;Zunyi
+1876;China;Hengyang
+1877;China;Jingzhou
+1878;China;Panzhihua
+1879;China;Xiangfan
+1880;China;Zhangjiajie
+1881;Qatar;Dukhan
+1882;Qatar;Al-Ruwais
+1883;Qatar;Ummsaid
+1884;Cyprus;Paralimni
+1885;Cyprus;Polis Chrysochous
+1886;Cyprus;Prodromos
+1887;Saudi Arabia;Arar
+1888;Saudi Arabia;Buraydah
+1889;Saudi Arabia;Najran
+1890;Saudi Arabia;Sakaka
+1891;Saudi Arabia;Sharurah
+1892;Saudi Arabia;Yanbu
+1893;United Kingdom of Great Britain and Northern Ireland;Aberdeen
+1894;United Kingdom of Great Britain and Northern Ireland;Aberystwyth
+1895;United Kingdom of Great Britain and Northern Ireland;Armagh
+1896;United Kingdom of Great Britain and Northern Ireland;Bala
+1897;United Kingdom of Great Britain and Northern Ireland;Bangor
+1898;United Kingdom of Great Britain and Northern Ireland;Bristol
+1899;United Kingdom of Great Britain and Northern Ireland;Cambridge
+1900;United Kingdom of Great Britain and Northern Ireland;Carlisle
+1901;United Kingdom of Great Britain and Northern Ireland;Enniskillen
+1902;United Kingdom of Great Britain and Northern Ireland;Glasgow
+1903;United Kingdom of Great Britain and Northern Ireland;Inverness
+1904;United Kingdom of Great Britain and Northern Ireland;Liverpool
+1905;United Kingdom of Great Britain and Northern Ireland;Londonderry (Derry)
+1906;United Kingdom of Great Britain and Northern Ireland;Plymouth
+1907;United Kingdom of Great Britain and Northern Ireland;Reading
+1908;United Kingdom of Great Britain and Northern Ireland;Rhayader
+1909;United Kingdom of Great Britain and Northern Ireland;Southampton
+1910;United Kingdom of Great Britain and Northern Ireland;Swansea
+1911;United Kingdom of Great Britain and Northern Ireland;Truro
+1912;United Kingdom of Great Britain and Northern Ireland;Ullapool
+1913;United Kingdom of Great Britain and Northern Ireland;Wick
+1914;Ireland;Kerry
+1915;Ireland;Mayo
+1916;Ireland;Offaly
+1917;Ireland;Wexford
+1918;Ethiopia;Assosa
+1919;Ethiopia;Bale Robe
+1920;Ethiopia;Gode
+1921;Ethiopia;Gondar
+1922;Ethiopia;Lalibela
+1923;Slovenia;Maribor
+1924;Slovenia;Novo Mesto
+1925;Slovenia;Portoroz
+1926;Slovenia;Ratece
+1927;Estonia;Tartu
+1928;Estonia;Parnu
+1929;Israel;Afula
+1930;Israel;Beer Sheva
+1931;Israel;Haifa
+1932;Israel;Lod
+1933;Israel;Mizpe Ramon
+1934;Israel;Nazareth
+1935;Israel;Zefat
+1936;Uganda;Arua
+1937;Uganda;Gulu
+1938;Uganda;Kabale
+1939;Uganda;Masindi
+1940;Uganda;Mbarara
+1941;Uganda;Tororo
+1942;Italy;Ancona
+1943;Italy;Aosta
+1944;Italy;Bologna
+1945;Italy;Bolzano
+1946;Italy;Campobasso
+1947;Italy;Crotone
+1948;Italy;Genova
+1949;Italy;Perugia
+1950;Italy;Pescara
+1951;Italy;Potenza
+1952;Italy;Torino
+1953;Italy;Udine
+1954;United States of America;Agana, Guam
+1955;United States of America;Ann Arbor, Michigan
+1956;United States of America;Annapolis, Maryland
+1957;United States of America;Athens, Georgia
+1958;United States of America;Augusta, Georgia
+1959;United States of America;Augusta, Maine
+1960;United States of America;Aurora, Illinois
+1961;United States of America;Bangor, Maine
+1962;United States of America;Bowling Green, Kentucky
+1963;United States of America;Bozeman, Montana
+1964;United States of America;Brookings, South Dakota
+1965;United States of America;Butte, Montana
+1966;United States of America;Carmel, Indiana
+1967;United States of America;Carson City, Nevada
+1968;United States of America;Cedar Rapids, Iowa
+1969;United States of America;Chandler, Arizona
+1970;United States of America;Clarksville, Tennessee
+1971;United States of America;Cleveland, Mississippi
+1972;United States of America;Colchester, Vermont
+1973;United States of America;Columbia, Missouri
+1974;United States of America;Davenport, Iowa
+1975;United States of America;Dover, Delaware
+1976;United States of America;Fayetteville, Arkansas
+1977;United States of America;Fort Collins, Colorado
+1978;United States of America;Frankfort, Kentucky
+1979;United States of America;Gillette, Wyoming
+1980;United States of America;Grand Forks, North Dakota
+1981;United States of America;Grand Island, Nebraska
+1982;United States of America;Greenville, South Carolina
+1983;United States of America;Gulfport, Mississippi
+1984;United States of America;Hattiesburg, Mississippi
+1985;United States of America;Hilo, Hawaii
+1986;United States of America;Huntington, West Virginia
+1987;United States of America;Idaho Falls, Idaho
+1988;United States of America;Jefferson City, Missouri
+1989;United States of America;Joliet, Illinois
+1990;United States of America;Jonesboro, Arkansas
+1991;United States of America;Kailua, Hawaii
+1992;United States of America;Kansas City, Kansas
+1993;United States of America;Kapolei, Hawaii
+1994;United States of America;Kearney, Nebraska
+1995;United States of America;Keene, New Hampshire
+1996;United States of America;Kenosha, Wisconsin
+1997;United States of America;Ketchikan, Alaska
+1998;United States of America;Lafayette, Louisiana
+1999;United States of America;Lahaina, Hawaii
+2000;United States of America;Las Cruces, New Mexico
+2001;United States of America;Lawton, Oklahoma
+2002;United States of America;Lowell, Massachusetts
+2003;United States of America;Manchester, New Hampshire
+2004;United States of America;McComb, Mississippi
+2005;United States of America;Middletown, Connecticut
+2006;United States of America;Minot, North Dakota
+2007;United States of America;Missoula, Montana
+2008;United States of America;Montpelier, Vermont
+2009;United States of America;Myrtle Beach, South Carolina
+2010;United States of America;Nampa, Idaho
+2011;United States of America;Napa, California
+2012;United States of America;Naples, Florida
+2013;United States of America;Nashua, New Hampshire
+2014;United States of America;New Haven, Connecticut
+2015;United States of America;Newark, Delaware
+2016;United States of America;Newport News, Virginia
+2017;United States of America;Norman, Oklahoma
+2018;United States of America;Olathe, Kansas
+2019;United States of America;Olympia, Washington
+2020;United States of America;Owensboro, Kentucky
+2021;United States of America;Palm Springs, California
+2022;United States of America;Parkersburg, West Virginia
+2023;United States of America;Pierre, South Dakota
+2024;United States of America;Provo, Utah
+2025;United States of America;Racine, Wisconsin
+2026;United States of America;Reading, Pennsylvania
+2027;United States of America;Rio Rancho, New Mexico
+2028;United States of America;Rochester, Minnesota
+2029;United States of America;Rochester, New Hampshire
+2030;United States of America;Rock Hill, South Carolina
+2031;United States of America;Rock Springs, Wyoming
+2032;United States of America;Roswell, New Mexico
+2033;United States of America;Rutland, Vermont
+2034;United States of America;Saint Paul, Minnesota
+2035;United States of America;Santa Fe, New Mexico
+2036;United States of America;Sedona, Arizona
+2037;United States of America;Sitka, Alaska
+2038;United States of America;St. Petersburg, Florida
+2039;United States of America;Stamford, Connecticut
+2040;United States of America;Tacoma, Washington
+2041;United States of America;Trenton, New Jersey
+2042;United States of America;Tuscaloosa, Alabama
+2043;United States of America;Waterloo, Iowa
+2044;United States of America;Watertown, South Dakota
+2045;United States of America;Winston-Salem, North Carolina
+2046;United States of America;Worcester, Massachusetts
+2047;Ecuador;Cuenca
+2048;Ecuador;Guayaquil
+2049;Ecuador;San Cristobal-Galapagos
+2050;Nigeria;Kano
+2051;Nigeria;Sokoto
+2052;Nigeria;Yola
+2053;Venezuela, Bolivarian Republic of;Barcelona
+2054;Venezuela, Bolivarian Republic of;Barquisimeto
+2055;Venezuela, Bolivarian Republic of;Calabozo
+2056;Venezuela, Bolivarian Republic of;Guanare
+2057;Venezuela, Bolivarian Republic of;Guiria
+2058;Venezuela, Bolivarian Republic of;La Canada
+2059;Venezuela, Bolivarian Republic of;La Orchila
+2060;Venezuela, Bolivarian Republic of;Maturin
+2061;Venezuela, Bolivarian Republic of;Mene Grande
+2062;Venezuela, Bolivarian Republic of;Puerto Ayacucho
+2063;Venezuela, Bolivarian Republic of;San Antonio Del Tachira
+2064;Venezuela, Bolivarian Republic of;Santa Elena De Uairen
+2065;Venezuela, Bolivarian Republic of;Temblador
+2066;Venezuela, Bolivarian Republic of;Tumeremo
+2067;Venezuela, Bolivarian Republic of;Valle De La Pascua
+2068;Australia;Brisbane Airport
+2069;Italy;Agrigento
+2070;Italy;Alghero
+2071;Italy;Catania
+2072;Italy;Isola d'Elba
+2073;Italy;Lecce
+2074;Italy;Piacenza
+2075;Italy;Pisa
+2076;Italy;Reggio Calabria
+2077;Italy;Verona
+2078;Italy;Vieste
+2079;Armenia;Dilijan
+2080;Armenia;Jermuk
+2081;Suriname;Albina
+2082;Suriname;Djoemoe
+2083;Suriname;Kwamalasemoetoe
+2084;Suriname;Lelydorp
+2085;Suriname;Nieuw Nickerie
+2087;Suriname;Stoelmanseiland
+2088;Suriname;Sipaliwini
+2089;Romania;Arad
+2090;Romania;Botosani
+2091;Romania;Cluj-Napoca
+2092;Romania;Constanta
+2093;Romania;Craiova
+2094;Romania;Iasi
+2095;Romania;Rm. Valcea
+2096;Romania;Sibiu
+2097;Romania;Sulina
+2098;Somalia;Bosaso
+2099;Somalia;Hargeisa
+2100;Somalia;Mogadishu
+2101;Nepal;Birendranagar
+2102;Nepal;Dhankuta
+2103;Nepal;Dipayal
+2104;Nepal;Pokhara
+2105;New Zealand;Alexandra
+2106;New Zealand;Ashburton
+2107;New Zealand;Blenheim
+2108;New Zealand;Dannevirke
+2109;New Zealand;Dargaville
+2110;New Zealand;Gisborne
+2111;New Zealand;Gore
+2112;New Zealand;Greymouth
+2113;New Zealand;Hastings
+2114;New Zealand;Invercargill
+2115;New Zealand;Kaikoura
+2116;New Zealand;Levin
+2117;New Zealand;Masterton
+2118;New Zealand;Milford Sound
+2119;New Zealand;Motueka
+2120;New Zealand;Mount Cook
+2121;New Zealand;Oamaru
+2122;New Zealand;Paihia
+2123;New Zealand;Paraparaumu
+2124;New Zealand;Reefton
+2125;New Zealand;Taumarunui
+2126;New Zealand;Taupo
+2127;New Zealand;Tauranga
+2128;New Zealand;Te Kuiti
+2129;New Zealand;Thames
+2130;New Zealand;Timaru
+2131;New Zealand;Tokoroa
+2132;New Zealand;Wanaka
+2133;New Zealand;Westport
+2134;New Zealand;Whakatane
+2135;New Zealand;Whanganui
+2136;New Zealand;Whangarei
+2137;New Zealand;Whitianga
+2138;Myanmar;Coco-Island
+2139;Myanmar;Dawei
+2140;Myanmar;Hkamti
+2141;Myanmar;Homalin
+2142;Myanmar;Hpa-an
+2143;Myanmar;Kalewa
+2144;Myanmar;Katha
+2145;Myanmar;Kengtung
+2146;Myanmar;Lashio
+2147;Myanmar;Meiktila
+2148;Myanmar;Mindat
+2149;Myanmar;Monywa
+2150;Myanmar;Myitkyina
+2151;Myanmar;Naypyitaw
+2152;Myanmar;Pathein
+2153;Myanmar;Putao
+2154;Myanmar;Pyay
+2155;Myanmar;Sagaing
+2156;Myanmar;Sittwe
+2157;Myanmar;Taungoo
+2158;Myanmar;Taunggyi
+2159;Myanmar;Thandwe
+2160;Myanmar;Yay
+2161;Czech Republic;Pilsen
+2162;Czech Republic;Liberec
+2163;Poland;Bialystok
+2164;Poland;Klodzko
+2165;Poland;Koszalin
+2166;Poland;Lodz
+2167;Poland;Lublin
+2168;Poland;Olsztyn
+2169;Poland;Rzeszow
+2170;Poland;Torun
+2171;Poland;Zielona Gora
+2172;Kyrgyzstan;Osh
+2174;Spain;Alcala de Henares
+2175;Spain;Aranda de Duero
+2176;Spain;Arrecife
+2177;Spain;Ayamonte
+2178;Spain;Cartagena
+2179;Spain;Ciutadella de Menorca
+2180;Spain;Ecija
+2181;Spain;Eivissa
+2182;Spain;Elche/Elx
+2183;Spain;Figueres
+2184;Spain;Gijon
+2185;Spain;Jaca
+2186;Spain;Jerez de la Frontera
+2187;Spain;Marbella
+2188;Spain;Merida
+2189;Spain;Motril
+2190;Spain;Plasencia
+2191;Spain;Ponferrada
+2192;Spain;Puerto del Rosario
+2193;Spain;Reus
+2194;Spain;San Sebastian de la Gomera
+2195;Spain;Santa Cruz de La Palma
+2196;Spain;Santiago de Compostela
+2197;Spain;Sitges
+2198;Spain;Talavera de la Reina
+2199;Spain;Valverde
+2200;Spain;Vigo
+2201;Chile;Coyhaique
+2202;Chile;Concepcion
+2203;Chile;La Serena
+2204;Chile;Valparaiso
+2205;Argentina;El Calafate
+2206;Argentina;Mar del Plata
+2207;Argentina;Salta
+2208;Argentina;Trelew
+2209;Benin;Bohicon
+2210;Benin;Kandi
+2211;Benin;Kerou
+2212;Benin;Natitingou
+2213;Benin;Ouidah
+2214;Benin;Parakou
+2215;Benin;Porga
+2216;Benin;Porto-Novo
+2217;Benin;Save
+2218;Portugal;Angra do Heroismo
+2219;Portugal;Aveiro
+2220;Portugal;Beja
+2221;Portugal;Braga
+2222;Portugal;Braganca
+2223;Portugal;Castelo Branco
+2224;Portugal;Coimbra
+2225;Portugal;Guarda
+2226;Portugal;Santa Cruz das Flores
+2227;Portugal;Leiria
+2228;Portugal;Portalegre
+2229;Portugal;Santarem
+2230;Portugal;Setubal
+2231;Portugal;Viana do Castelo
+2232;Portugal;Vila Real
+2233;Portugal;Viseu
+2234;Indonesia;Balikpapan
+2235;Indonesia;Banda Aceh
+2236;Indonesia;Bandar Lampung
+2237;Indonesia;Bandung
+2238;Indonesia;Banjarmasin
+2239;Indonesia;Batam
+2240;Indonesia;Bengkulu
+2241;Indonesia;Bitung
+2242;Indonesia;Gorontalo
+2243;Indonesia;Jambi
+2244;Indonesia;Jayapura
+2245;Indonesia;Kendari
+2246;Indonesia;Komodo
+2247;Indonesia;Kota Bogor
+2248;Indonesia;Kota Malang
+2249;Indonesia;Kupang
+2250;Indonesia;Kuta
+2251;Indonesia;Magelang
+2252;Indonesia;Makassar
+2253;Indonesia;Mamuju
+2254;Indonesia;Mataram
+2255;Indonesia;Padang
+2256;Indonesia;Palangkaraya
+2257;Indonesia;Palembang
+2258;Indonesia;Palu
+2259;Indonesia;Pangkal Pinang
+2260;Indonesia;Pekanbaru
+2261;Indonesia;Samarinda
+2262;Indonesia;Semarang
+2263;Indonesia;Serang
+2264;Indonesia;Sorong Kota
+2265;Indonesia;Surakarta
+2266;Indonesia;Tangerang
+2267;Indonesia;Tanjung Pinang
+2268;Indonesia;Tanjung Selor
+2269;Indonesia;Tarakan
+2270;Indonesia;Ternate
+2271;Indonesia;Timika
+2272;Indonesia;Yogyakarta
+2273;Greece;Aktion (Preveza)
+2274;Greece;Alexandroupoli
+2275;Greece;Anchialos (Volos)
+2276;Greece;Athinai Hellinikon (South Attica)
+2277;Greece;Chios
+2278;Greece;Herakleion
+2279;Greece;Ioannina
+2280;Greece;Kalamata
+2281;Greece;Kastoria
+2282;Greece;Kefalhnia
+2283;Greece;Kerkyra
+2284;Greece;Larissa
+2285;Greece;Mytilini
+2286;Greece;Rhodes
+2287;Greece;Samos
+2288;Greece;Souda (Chania)
+2289;Greece;Tatoi (North Attica)
+2290;Greece;Tripolis
+2291;Belgium;Aalst
+2292;Belgium;Aalter
+2293;Belgium;Aarschot
+2294;Belgium;Aartselaar
+2295;Belgium;Affligem
+2296;Belgium;Aiseau-Presles
+2297;Belgium;Alken
+2298;Belgium;Alveringem
+2299;Belgium;Amay
+2300;Belgium;Amel
+2301;Belgium;Andenne
+2302;Belgium;Anderlecht
+2303;Belgium;Anderlues
+2304;Belgium;Anhee
+2305;Belgium;Ans
+2306;Belgium;Anthisnes
+2307;Belgium;Antoing
+2308;Belgium;Antwerp
+2309;Belgium;Anzegem
+2310;Belgium;Ardooie
+2311;Belgium;Arendonk
+2312;Belgium;Arlon
+2313;Belgium;As
+2314;Belgium;Asse
+2315;Belgium;Assenede
+2316;Belgium;Assesse
+2317;Belgium;Ath
+2318;Belgium;Attert
+2319;Belgium;Aubange
+2320;Belgium;Aubel
+2321;Belgium;Avelgem
+2322;Belgium;Awans
+2323;Belgium;Aywaille
+2324;Belgium;Baarle-Hertog
+2325;Belgium;Baelen
+2326;Belgium;Balen
+2327;Belgium;Bassenge
+2328;Belgium;Bastogne
+2329;Belgium;Beaumont
+2330;Belgium;Beauraing
+2331;Belgium;Beauvechain
+2332;Belgium;Beernem
+2333;Belgium;Beerse
+2334;Belgium;Beersel
+2335;Belgium;Begijnendijk
+2336;Belgium;Bekkevoort
+2337;Belgium;Beloeil
+2338;Belgium;Beringen
+2339;Belgium;Berlaar
+2340;Belgium;Berlare
+2341;Belgium;Berloz
+2342;Belgium;Bernissart
+2343;Belgium;Bertem
+2344;Belgium;Bertogne
+2345;Belgium;Bertrix
+2346;Belgium;Bever
+2347;Belgium;Beveren
+2348;Belgium;Beyne-Heusay
+2349;Belgium;Bierbeek
+2350;Belgium;Bievre
+2351;Belgium;Bilzen
+2352;Belgium;Binche
+2353;Belgium;Blankenberge
+2354;Belgium;Blegny
+2355;Belgium;Bocholt
+2356;Belgium;Boechout
+2357;Belgium;Bonheiden
+2358;Belgium;Boom
+2359;Belgium;Boortmeerbeek
+2360;Belgium;Borgloon
+2361;Belgium;Bornem
+2362;Belgium;Borsbeek
+2363;Belgium;Bouillon
+2364;Belgium;Boussu
+2365;Belgium;Boutersem
+2366;Belgium;Braine-L'Alleud
+2367;Belgium;Braine-Le-Chateau
+2368;Belgium;Braine-Le-Comte
+2369;Belgium;Braives
+2370;Belgium;Brakel
+2371;Belgium;Brasschaat
+2372;Belgium;Brecht
+2373;Belgium;Bredene
+2374;Belgium;Bree
+2375;Belgium;Brugelette
+2376;Belgium;Brugge
+2377;Belgium;Brunehaut
+2378;Belgium;Buggenhout
+2379;Belgium;Bullingen
+2380;Belgium;Burdinne
+2381;Belgium;Burg-Reuland
+2382;Belgium;Butgenbach
+2383;Belgium;Celles
+2384;Belgium;Cerfontaine
+2385;Belgium;Chapelle-Lez-Herlaimont
+2386;Belgium;Charleroi
+2387;Belgium;Chastre
+2388;Belgium;Chatelet
+2389;Belgium;Chaudfontaine
+2390;Belgium;Chaumont-Gistoux
+2391;Belgium;Chievres
+2392;Belgium;Chimay
+2393;Belgium;Chiny
+2394;Belgium;Ciney
+2395;Belgium;Clavier
+2396;Belgium;Colfontaine
+2397;Belgium;Comblain-Au-Pont
+2398;Belgium;Comines-Warneton
+2399;Belgium;Courcelles
+2400;Belgium;Court-Saint-Etienne
+2401;Belgium;Couvin
+2402;Belgium;Crisnee
+2403;Belgium;Dalhem
+2404;Belgium;Damme
+2405;Belgium;Daverdisse
+2406;Belgium;De Haan
+2407;Belgium;De Panne
+2408;Belgium;De Pinte
+2409;Belgium;Deerlijk
+2410;Belgium;Deinze
+2411;Belgium;Denderleeuw
+2412;Belgium;Dendermonde
+2413;Belgium;Dentergem
+2414;Belgium;Dessel
+2415;Belgium;Destelbergen
+2416;Belgium;Diepenbeek
+2417;Belgium;Diest
+2418;Belgium;Diksmuide
+2419;Belgium;Dilbeek
+2420;Belgium;Dilsen-Stokkem
+2421;Belgium;Dinant
+2422;Belgium;Dison
+2423;Belgium;Doische
+2424;Belgium;Donceel
+2425;Belgium;Dour
+2426;Belgium;Drogenbos
+2427;Belgium;Duffel
+2428;Belgium;Durbuy
+2429;Belgium;Ecaussinnes
+2430;Belgium;Edegem
+2431;Belgium;Eeklo
+2432;Belgium;Eghezee
+2433;Belgium;Ellezelles
+2434;Belgium;Enghien
+2435;Belgium;Engis
+2436;Belgium;Erezee
+2437;Belgium;Erpe-Mere
+2438;Belgium;Erquelinnes
+2439;Belgium;Esneux
+2440;Belgium;Essen
+2441;Belgium;Estaimpuis
+2442;Belgium;Estinnes
+2443;Belgium;Etalle
+2444;Belgium;Etterbeek
+2445;Belgium;Eupen
+2446;Belgium;Evere
+2447;Belgium;Evergem
+2448;Belgium;Faimes
+2449;Belgium;Farciennes
+2450;Belgium;Fauvillers
+2451;Belgium;Fernelmont
+2452;Belgium;Ferrieres
+2453;Belgium;Fexhe-Le-Haut-Clocher
+2454;Belgium;Flemalle
+2455;Belgium;Fleron
+2456;Belgium;Fleurus
+2457;Belgium;Flobecq
+2458;Belgium;Floreffe
+2459;Belgium;Florennes
+2460;Belgium;Florenville
+2461;Belgium;Fontaine-L'Eveque
+2462;Belgium;Forest
+2463;Belgium;Fosses-La-Ville
+2464;Belgium;Frameries
+2465;Belgium;Frasnes-Lez-Anvaing
+2466;Belgium;Froidchapelle
+2467;Belgium;Galmaarden
+2468;Belgium;Ganshoren
+2469;Belgium;Gavere
+2470;Belgium;Gedinne
+2471;Belgium;Geel
+2472;Belgium;Geer
+2473;Belgium;Geetbets
+2474;Belgium;Gembloux
+2475;Belgium;Genappe
+2476;Belgium;Genk
+2477;Belgium;Geraardsbergen
+2478;Belgium;Gerpinnes
+2479;Belgium;Gesves
+2480;Belgium;Ghent
+2481;Belgium;Gingelom
+2482;Belgium;Gistel
+2483;Belgium;Glabbeek
+2484;Belgium;Gooik
+2485;Belgium;Gouvy
+2486;Belgium;Grace-Hollogne
+2487;Belgium;Grez-Doiceau
+2488;Belgium;Grimbergen
+2489;Belgium;Grobbendonk
+2490;Belgium;Haacht
+2491;Belgium;Haaltert
+2492;Belgium;Habay
+2493;Belgium;Halen
+2494;Belgium;Halle
+2495;Belgium;Ham
+2496;Belgium;Ham-Sur-Heure-Nalinnes
+2497;Belgium;Hamme
+2498;Belgium;Hamoir
+2499;Belgium;Hamois
+2500;Belgium;Hamont-Achel
+2501;Belgium;Hannut
+2502;Belgium;Harelbeke
+2503;Belgium;Hasselt
+2504;Belgium;Hastiere
+2505;Belgium;Havelange
+2506;Belgium;Hechtel-Eksel
+2507;Belgium;Heers
+2508;Belgium;Heist-Op-Den-Berg
+2509;Belgium;Helecine
+2510;Belgium;Hemiksem
+2511;Belgium;Hensies
+2512;Belgium;Herbeumont
+2513;Belgium;Herent
+2514;Belgium;Herentals
+2515;Belgium;Herenthout
+2516;Belgium;Herk-De-Stad
+2517;Belgium;Herne
+2518;Belgium;Heron
+2519;Belgium;Herselt
+2520;Belgium;Herstal
+2521;Belgium;Herstappe
+2522;Belgium;Herve
+2523;Belgium;Herzele
+2524;Belgium;Heusden-Zolder
+2525;Belgium;Heuvelland
+2526;Belgium;Hoegaarden
+2527;Belgium;Hoeilaart
+2528;Belgium;Hoeselt
+2529;Belgium;Holsbeek
+2530;Belgium;Honnelles
+2531;Belgium;Hooglede
+2532;Belgium;Hoogstraten
+2533;Belgium;Horebeke
+2534;Belgium;Hotton
+2535;Belgium;Houffalize
+2536;Belgium;Houthalen-Helchteren
+2537;Belgium;Houthulst
+2538;Belgium;Houyet
+2539;Belgium;Hove
+2540;Belgium;Huldenberg
+2541;Belgium;Hulshout
+2542;Belgium;Huy
+2543;Belgium;Ichtegem
+2544;Belgium;Ieper
+2545;Belgium;Incourt
+2546;Belgium;Ingelmunster
+2547;Belgium;Ittre
+2548;Belgium;Ixelles
+2549;Belgium;Izegem
+2550;Belgium;Jabbeke
+2551;Belgium;Jalhay
+2552;Belgium;Jemeppe-Sur-Sambre
+2553;Belgium;Jette
+2554;Belgium;Jodoigne
+2555;Belgium;Juprelle
+2556;Belgium;Jurbise
+2557;Belgium;Kalmthout
+2558;Belgium;Kampenhout
+2559;Belgium;Kapelle-Op-Den-Bos
+2560;Belgium;Kapellen
+2561;Belgium;Kaprijke
+2562;Belgium;Kasterlee
+2563;Belgium;Keerbergen
+2564;Belgium;Kelmis
+2565;Belgium;Kinrooi
+2566;Belgium;Kluisbergen
+2567;Belgium;Knesselare
+2568;Belgium;Knokke-Heist
+2569;Belgium;Koekelare
+2570;Belgium;Koekelberg
+2571;Belgium;Koksijde
+2572;Belgium;Kontich
+2573;Belgium;Kortemark
+2574;Belgium;Kortenaken
+2575;Belgium;Kortenberg
+2576;Belgium;Kortessem
+2577;Belgium;Kortrijk
+2578;Belgium;Kraainem
+2579;Belgium;Kruibeke
+2580;Belgium;Kruishoutem
+2581;Belgium;Kuurne
+2582;Belgium;La Bruyere
+2583;Belgium;La Hulpe
+2584;Belgium;La Louviere
+2585;Belgium;La Roche-En-Ardenne
+2586;Belgium;Laakdal
+2587;Belgium;Laarne
+2588;Belgium;Lanaken
+2589;Belgium;Landen
+2590;Belgium;Langemark-Poelkapelle
+2591;Belgium;Lasne
+2592;Belgium;Le Roeulx
+2593;Belgium;Lebbeke
+2594;Belgium;Lede
+2595;Belgium;Ledegem
+2596;Belgium;Leglise
+2597;Belgium;Lendelede
+2598;Belgium;Lennik
+2599;Belgium;Lens
+2600;Belgium;Leopoldsburg
+2601;Belgium;Les Bons Villers
+2602;Belgium;Lessines
+2603;Belgium;Leuven
+2604;Belgium;Leuze-En-Hainaut
+2605;Belgium;Libin
+2606;Belgium;Libramont-Chevigny
+2607;Belgium;Lichtervelde
+2608;Belgium;Liedekerke
+2609;Belgium;Liege
+2610;Belgium;Lier
+2611;Belgium;Lierde
+2612;Belgium;Lierneux
+2613;Belgium;Lille
+2614;Belgium;Limbourg
+2615;Belgium;Lincent
+2616;Belgium;Linkebeek
+2617;Belgium;Lint
+2618;Belgium;Linter
+2619;Belgium;Lo-Reninge
+2620;Belgium;Lobbes
+2621;Belgium;Lochristi
+2622;Belgium;Lokeren
+2623;Belgium;Lommel
+2624;Belgium;Londerzeel
+2625;Belgium;Lontzen
+2626;Belgium;Lovendegem
+2627;Belgium;Lubbeek
+2628;Belgium;Lummen
+2629;Belgium;Maarkedal
+2630;Belgium;Maaseik
+2631;Belgium;Maasmechelen
+2632;Belgium;Machelen
+2633;Belgium;Maldegem
+2634;Belgium;Malle
+2635;Belgium;Malmedy
+2636;Belgium;Manage
+2637;Belgium;Manhay
+2638;Belgium;Marche-En-Famenne
+2639;Belgium;Marchin
+2640;Belgium;Martelange
+2641;Belgium;Mechelen
+2642;Belgium;Meerhout
+2643;Belgium;Meeuwen-Gruitrode
+2644;Belgium;Meise
+2645;Belgium;Meix-Devant-Virton
+2646;Belgium;Melle
+2647;Belgium;Menen
+2648;Belgium;Merbes-Le-Chateau
+2649;Belgium;Merchtem
+2650;Belgium;Merelbeke
+2651;Belgium;Merksplas
+2652;Belgium;Mesen
+2653;Belgium;Messancy
+2654;Belgium;Mettet
+2655;Belgium;Meulebeke
+2656;Belgium;Middelkerke
+2657;Belgium;Modave
+2658;Belgium;Moerbeke
+2659;Belgium;Mol
+2660;Belgium;Momignies
+2661;Belgium;Mons
+2662;Belgium;Mont-De-L'Enclus
+2663;Belgium;Mont-Saint-Guibert
+2664;Belgium;Montigny-Le-Tilleul
+2665;Belgium;Moorslede
+2666;Belgium;Morlanwelz
+2667;Belgium;Mortsel
+2668;Belgium;Mouscron
+2669;Belgium;Musson
+2670;Belgium;Namur
+2671;Belgium;Nandrin
+2672;Belgium;Nassogne
+2673;Belgium;Nazareth
+2674;Belgium;Neerpelt
+2675;Belgium;Neufchateau
+2676;Belgium;Neupre
+2677;Belgium;Nevele
+2678;Belgium;Niel
+2679;Belgium;Nieuwerkerken
+2680;Belgium;Nieuwpoort
+2681;Belgium;Nijlen
+2682;Belgium;Ninove
+2683;Belgium;Nivelles
+2684;Belgium;Ohey
+2685;Belgium;Olen
+2686;Belgium;Olne
+2687;Belgium;Onhaye
+2688;Belgium;Oosterzele
+2689;Belgium;Oostkamp
+2690;Belgium;Oostrozebeke
+2691;Belgium;Opglabbeek
+2692;Belgium;Opwijk
+2693;Belgium;Oreye
+2694;Belgium;Orp-Jauche
+2695;Belgium;Ottignies-Louvain-La-Neuve
+2696;Belgium;Oud-Heverlee
+2697;Belgium;Oud-Turnhout
+2698;Belgium;Oudenaarde
+2699;Belgium;Oudenburg
+2700;Belgium;Oudergem
+2701;Belgium;Ouffet
+2702;Belgium;Oupeye
+2703;Belgium;Overijse
+2704;Belgium;Overpelt
+2705;Belgium;Paliseul
+2706;Belgium;Pecq
+2707;Belgium;Peer
+2708;Belgium;Pepingen
+2709;Belgium;Pepinster
+2710;Belgium;Peruwelz
+2711;Belgium;Perwez
+2712;Belgium;Philippeville
+2713;Belgium;Pittem
+2714;Belgium;Plombieres
+2715;Belgium;Pont-A-Celles
+2716;Belgium;Poperinge
+2717;Belgium;Profondeville
+2718;Belgium;Putte
+2719;Belgium;Puurs
+2720;Belgium;Quaregnon
+2721;Belgium;Quevy
+2722;Belgium;Quievrain
+2723;Belgium;Raeren
+2724;Belgium;Ramillies
+2725;Belgium;Ranst
+2726;Belgium;Ravels
+2727;Belgium;Rebecq
+2728;Belgium;Remicourt
+2729;Belgium;Rendeux
+2730;Belgium;Retie
+2731;Belgium;Riemst
+2732;Belgium;Rijkevorsel
+2733;Belgium;Rixensart
+2734;Belgium;Rochefort
+2735;Belgium;Roeselare
+2736;Belgium;Ronse
+2737;Belgium;Roosdaal
+2738;Belgium;Rotselaar
+2739;Belgium;Rouvroy
+2740;Belgium;Ruiselede
+2741;Belgium;Rumes
+2742;Belgium;Rumst
+2743;Belgium;Saint-Georges-Sur-Meuse
+2744;Belgium;Saint-Ghislain
+2745;Belgium;Saint-Josse-Ten-Noode
+2746;Belgium;Saint-Leger
+2747;Belgium;Saint-Nicolas
+2748;Belgium;Sainte-Ode
+2749;Belgium;Sambreville
+2750;Belgium;Sankt Vith
+2751;Belgium;Schaerbeek
+2752;Belgium;Schelle
+2753;Belgium;Scherpenheuvel-Zichem
+2754;Belgium;Schilde
+2755;Belgium;Schoten
+2756;Belgium;Seneffe
+2757;Belgium;Seraing
+2758;Belgium;Silly
+2759;Belgium;Sint-Agatha-Berchem
+2760;Belgium;Sint-Amands
+2761;Belgium;Sint-Genesius-Rode
+2762;Belgium;Sint-Gillis
+2763;Belgium;Sint-Gillis-Waas
+2764;Belgium;Sint-Jans-Molenbeek
+2765;Belgium;Sint-Katelijne-Waver
+2766;Belgium;Sint-Lambrechts-Woluwe
+2767;Belgium;Sint-Laureins
+2768;Belgium;Sint-Lievens-Houtem
+2769;Belgium;Sint-Martens-Latem
+2770;Belgium;Sint-Niklaas
+2771;Belgium;Sint-Pieters-Leeuw
+2772;Belgium;Sint-Pieters-Woluwe
+2773;Belgium;Sint-Truiden
+2774;Belgium;Sivry-Rance
+2775;Belgium;Soignies
+2776;Belgium;Sombreffe
+2777;Belgium;Somme-Leuze
+2778;Belgium;Soumagne
+2779;Belgium;Spa
+2780;Belgium;Spiere-Helkijn
+2781;Belgium;Sprimont
+2782;Belgium;Stabroek
+2783;Belgium;Staden
+2784;Belgium;Stavelot
+2785;Belgium;Steenokkerzeel
+2786;Belgium;Stekene
+2787;Belgium;Stoumont
+2788;Belgium;Tellin
+2789;Belgium;Temse
+2790;Belgium;Tenneville
+2791;Belgium;Ternat
+2792;Belgium;Tervuren
+2793;Belgium;Tessenderlo
+2794;Belgium;Theux
+2795;Belgium;Thimister-Clermont
+2796;Belgium;Thuin
+2797;Belgium;Tielt
+2798;Belgium;Tielt-Winge
+2799;Belgium;Tienen
+2800;Belgium;Tinlot
+2801;Belgium;Tintigny
+2802;Belgium;Tongeren
+2803;Belgium;Torhout
+2804;Belgium;Tournai
+2805;Belgium;Tremelo
+2806;Belgium;Trois-Ponts
+2807;Belgium;Trooz
+2808;Belgium;Tubize
+2809;Belgium;Turnhout
+2810;Belgium;Uccle
+2811;Belgium;Vaux-Sur-Sure
+2812;Belgium;Verlaine
+2813;Belgium;Verviers
+2814;Belgium;Veurne
+2815;Belgium;Vielsalm
+2816;Belgium;Villers-La-Ville
+2817;Belgium;Villers-Le-Bouillet
+2818;Belgium;Vilvoorde
+2819;Belgium;Viroinval
+2820;Belgium;Vise
+2821;Belgium;Vleteren
+2822;Belgium;Voeren
+2823;Belgium;Vorselaar
+2824;Belgium;Vosselaar
+2825;Belgium;Vresse-Sur-Semois
+2826;Belgium;Waarschoot
+2827;Belgium;Waasmunster
+2828;Belgium;Wachtebeke
+2829;Belgium;Waimes
+2830;Belgium;Walcourt
+2831;Belgium;Walhain
+2832;Belgium;Wanze
+2833;Belgium;Waregem
+2834;Belgium;Waremme
+2835;Belgium;Wasseiges
+2836;Belgium;Waterloo
+2837;Belgium;Watermael-Boitsfort
+2838;Belgium;Wavre
+2839;Belgium;Welkenraedt
+2840;Belgium;Wellen
+2841;Belgium;Wellin
+2842;Belgium;Wemmel
+2843;Belgium;Wervik
+2844;Belgium;Westerlo
+2845;Belgium;Wetteren
+2846;Belgium;Wevelgem
+2847;Belgium;Wezembeek-Oppem
+2848;Belgium;Wichelen
+2849;Belgium;Wielsbeke
+2850;Belgium;Wijnegem
+2851;Belgium;Willebroek
+2852;Belgium;Wingene
+2853;Belgium;Wommelgem
+2854;Belgium;Wortegem-Petegem
+2855;Belgium;Wuustwezel
+2856;Belgium;Yvoir
+2857;Belgium;Zandhoven
+2858;Belgium;Zaventem
+2859;Belgium;Zedelgem
+2860;Belgium;Zele
+2861;Belgium;Zelzate
+2862;Belgium;Zemst
+2863;Belgium;Zingem
+2864;Belgium;Zoersel
+2865;Belgium;Zomergem
+2866;Belgium;Zonhoven
+2867;Belgium;Zonnebeke
+2868;Belgium;Zottegem
+2869;Belgium;Zoutleeuw
+2870;Belgium;Zuienkerke
+2871;Belgium;Zulte
+2872;Belgium;Zutendaal
+2873;Belgium;Zwalm
+2874;Belgium;Zwevegem
+2875;Belgium;Zwijndrecht
+2876;Cote d'Ivoire;Abidjan
+2877;Cote d'Ivoire;Adiake
+2878;Cote d'Ivoire;Bondoukou
+2879;Cote d'Ivoire;Bouake
+2880;Cote d'Ivoire;Daloa
+2881;Cote d'Ivoire;Odienne
+2882;Maldives;Hanimaadhoo
+2883;Rwanda;Nyagatare
+2884;Spain;Andujar
+2885;Spain;Aranjuez
+2886;Spain;Aviles
+2887;Spain;Benavente
+2888;Spain;Benidorm
+2889;Spain;Calatayud
+2890;Spain;Capdepera
+2891;Spain;Caravaca de La Cruz
+2892;Spain;Cazorla
+2893;Spain;Ciudad Rodrigo
+2894;Spain;Estepona
+2895;Spain;Haro
+2896;Spain;Javea/Xabia
+2897;Spain;La Seu D-Urgell
+2898;Spain;Llanes
+2899;Spain;Lloret de Mar
+2900;Spain;Manresa
+2901;Spain;Mao-Mahon
+2902;Spain;Puerto de la Cruz
+2903;Spain;Reinosa
+2904;Spain;Roquetas de Mar
+2905;Spain;Salou
+2906;Spain;Siguenza
+2907;Spain;Tarancon
+2908;Spain;Tarifa
+2909;Spain;Torremolinos
+2910;Spain;Trujillo
+2911;Spain;Tudela
+2912;Spain;Valdepenas
+2913;Spain;Vinaros
+2914;Spain;Xativa
+2915;Senegal;Bakel
+2916;Senegal;Cap Skirring
+2917;Senegal;Diourbel
+2918;Senegal;Fatick
+2919;Senegal;Kaffrine
+2920;Senegal;Kaolack
+2921;Senegal;Kedougou
+2922;Senegal;Kolda
+2923;Senegal;Linguere
+2924;Senegal;Louga
+2925;Senegal;Matam
+2926;Senegal;Mbour
+2927;Senegal;Podor
+2928;Senegal;Saint-Louis
+2929;Senegal;Sedhiou
+2930;Senegal;Tambacounda
+2931;Senegal;Thies
+2932;Senegal;Ziguinchor
+2933;Senegal;Dakar-Diass AIBD
+2934;Ukraine;Dnipro
+2935;Ukraine;Lviv
+2936;Ukraine;Kharkiv
+2937;Ukraine;Odesa
+2938;Ukraine;Simferopol
+2939;Ukraine;Donetsk
+2940;Ukraine;Kherson
+2941;Ukraine;Luhansk
+2942;Ukraine;Uzhorod
+2943;Ukraine;Vinnitsa
+2944;Kenya;Kisii
+2945;Kenya;Kericho
+2946;Kenya;Kakamega
+2947;Kenya;Narok
+2948;Kenya;Kitale
+2949;Kenya;Nyeri
+2950;Kenya;Meru
+2951;Kenya;Machakos
+2952;Kenya;Moyale
+2953;Kenya;Wajir
+2954;Bhutan;Bhur
+2955;Bhutan;Samtse
+2956;Bhutan;Thimphu
+2957;Bhutan;Trashigang
+2958;Oman;Duqm Port - OODP
+2959;Nepal;Bhairahwa
+2960;Nepal;Biratnagar
+2961;Nepal;Dhangadhi
+2962;Nepal;Ghorahi
+2963;Nepal;Janakpur
+2964;Nepal;Jumla
+2965;Nepal;Okhaldhunga
+2966;Ghana;Aflao
+2967;Ghana;Akim Oda
+2968;Ghana;Axim
+2969;Ghana;Bole
+2970;Ghana;Bolgatanga
+2971;Ghana;Damongo
+2972;Ghana;Goaso
+2973;Ghana;Kasoa
+2974;Ghana;Kintampo
+2975;Ghana;Koforidua
+2976;Ghana;Nalerigu
+2977;Ghana;Obuasi
+2978;Ghana;Sefwi Bekwai
+2979;Ghana;Tarkwa
+2980;Ghana;Techiman
+2981;Zambia;Choma
+2982;Zambia;Mfuwe
+2983;Zambia;Isoka
+2984;South Africa;Bloemfontein
+2985;South Africa;Ladysmith
+2986;South Africa;Mafikeng
+2987;South Africa;Mthatha
+2988;South Africa;Nelspruit
+2989;South Africa;Polokwane
+2990;South Africa;Port Elizabeth
+2991;South Africa;Pretoria
+2992;South Africa;Rustenburg
+2993;South Africa;Upington
+2994;South Africa;Witbank
+2995;Madagascar;Ambohitsilaozana
+2996;Madagascar;Antalaha
+2997;Madagascar;Antsirabe
+2998;Madagascar;Antsohihy
+2999;Madagascar;Besalampy
+3000;Madagascar;Farafangana
+3001;Madagascar;Mahanoro
+3002;Madagascar;Maintirano
+3003;Madagascar;Mananjary
+3004;Madagascar;Nosy Be
+3005;Madagascar;Ranohira
+3006;Madagascar;Sainte Marie
+3007;Madagascar;Sambava
+3008;Madagascar;Taolagnaro
+3009;Madagascar;Morondava
+3010;Hungary;Bekescsaba
+3011;Hungary;Kecskemet
+3012;Hungary;Nagykanizsa
+3013;Hungary;Nyiregyhaza
+3014;Hungary;Szombathely
+3015;Cameroon;Bafoussam
+3016;Cameroon;Buea
+3017;Cameroon;Ebolowa
+3018;Cameroon;Maroua
+3019;Sweden;Borlange
+3020;Sweden;Lulea
+3021;Sweden;Ostersund
+3022;Sweden;Umea
+3024;Viet Nam;Hai Phong
+3025;Viet Nam;Ha Tinh
+3026;Viet Nam;Lao Cai
+3027;Viet Nam;Nha Trang
+3028;Viet Nam;Pleiku
+3029;Ukraine;Kiev
+3030;Ukraine;Lviv
